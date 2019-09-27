@@ -5907,3 +5907,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.27-03.04.51:306][235]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
 [2019.09.27-03.04.51:306][235]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
 [2019.09.27-03.05.02:864][388]LogSlate: Window 'Source Control Login' being destroyed
+[2019.09.27-03.09.41:178][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.09.27-03.09.41:932][574]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/ThirdPersonExampleMap_Auto2145FF4EB42E0F57C1583619A537BD72D.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.09.27-03.09.41:936][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.792
+[2019.09.27-03.09.41:936][574]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.792
+[2019.09.27-03.09.41:937][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.09.27-03.09.41:947][574]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.09.27-03.09.41:947][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.09.27-03.09.42:055][574]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/ThirdPersonCharacter_Auto29C67E7FE4AD5AC010F3294B2C4729AFB.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.09.27-03.09.42:057][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MagicProjectile] ([1] browsable assets)...
+[2019.09.27-03.09.42:057][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MagicProjectile]
+[2019.09.27-03.09.42:071][574]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/MagicProjectile_Auto2329EF7FA4856D5C74CF6BBA9A3A87030.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MagicProjectile_Auto2.uasset'
+[2019.09.27-03.09.42:073][574]LogFileHelpers: Auto-saving content packages took 0.136
