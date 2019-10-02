@@ -676,3 +676,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.01-14.27.10:703][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.10.01-14.27.10:708][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
 [2019.10.01-14.27.10:784][466]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.01-14.27.53:800][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.01-14.27.53:800][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.045
+[2019.10.01-14.27.53:802][675]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/QuestSystem/Quest_UI/QuestLog_UI] ([1] browsable assets)...
+[2019.10.01-14.27.53:802][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/QuestSystem/Quest_UI/QuestLog_UI]
+[2019.10.01-14.27.53:850][675]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/QuestLog_UI_Auto263D6671349DF975E2214CEAD5D80797C.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/QuestSystem/Quest_UI/QuestLog_UI_Auto2.uasset'
+[2019.10.01-14.27.53:852][675]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/QuestSystem/Quest_UI/QuestLogEntry_UI] ([1] browsable assets)...
+[2019.10.01-14.27.53:852][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/QuestSystem/Quest_UI/QuestLogEntry_UI]
+[2019.10.01-14.27.53:883][675]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/QuestLogEntry_UI_Auto2CA7F557A494E858F6BEC548AABC7D8E5.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/QuestSystem/Quest_UI/QuestLogEntry_UI_Auto2.uasset'
+[2019.10.01-14.27.53:885][675]LogFileHelpers: Auto-saving content packages took 0.083
