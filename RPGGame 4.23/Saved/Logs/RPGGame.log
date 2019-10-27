@@ -1006,3 +1006,15 @@ Script call stack:
 [2019.10.27-10.20.59:306][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.27-10.22.56:037][473]BlueprintLog: New page: Compile QuestTurnIn_UI
 [2019.10.27-10.22.56:106][473]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.10.27-10.25.50:115][ 85]LogUObjectHash: Compacting FUObjectHashTables data took  12.11ms
+[2019.10.27-10.25.50:891][ 85]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/ThirdPersonExampleMap_Auto1F0D0BFB646E8EBB969AC8492C1517479.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.10.27-10.25.50:898][ 85]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EasyQuest/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.878
+[2019.10.27-10.25.50:898][ 85]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.878
+[2019.10.27-10.25.50:902][ 85]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EasyQuest/ThirdPersonBP/Blueprints/MageCharacter/MagicCharacter] ([1] browsable assets)...
+[2019.10.27-10.25.50:915][ 85]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/EasyQuest/ThirdPersonBP/Blueprints/MageCharacter/MagicCharacter.MagicCharacter]
+[2019.10.27-10.25.50:915][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/EasyQuest/ThirdPersonBP/Blueprints/MageCharacter/MagicCharacter]
+[2019.10.27-10.25.51:133][ 85]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/MagicCharacter_Auto1A202B055469BA457E1DD6C817245197A.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/ThirdPersonBP/Blueprints/MageCharacter/MagicCharacter_Auto1.uasset'
+[2019.10.27-10.25.51:137][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EasyQuest/QuestSystem/Quest_UI/QuestTurnIn_UI] ([1] browsable assets)...
+[2019.10.27-10.25.51:137][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/EasyQuest/QuestSystem/Quest_UI/QuestTurnIn_UI]
+[2019.10.27-10.25.51:256][ 85]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/QuestTurnIn_UI_Auto1970B99F342083A01510E17BDDD017E15.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/QuestSystem/Quest_UI/QuestTurnIn_UI_Auto1.uasset'
+[2019.10.27-10.25.51:260][ 85]LogFileHelpers: Auto-saving content packages took 0.359
