@@ -906,3 +906,23 @@ Make sure 'Quest_C' has been compiled for  Get Objective Number generated from e
 [2019.10.28-06.40.10:452][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EasyQuest/QuestSystem/Quests/Quest_002" FILE="C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quests/Quest_002.uasset" SILENT=true
 [2019.10.28-06.40.10:480][809]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Quest_002E80F21B3452A93AC3D091AB2BEB77E1B.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quests/Quest_002.uasset'
 [2019.10.28-06.40.10:515][809]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Quest_KillAnNPCBD6E74EB464488A26C1940A0CF6A9F9B.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quests/Quest_KillAnNPC.uasset'
+[2019.10.28-06.42.52:997][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-06.43.37:805][ 26]BlueprintLog: New page: Compile Quest
+[2019.10.28-06.43.38:130][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.10.28-06.49.33:613][701]BlueprintLog: New page: Compile Quest
+[2019.10.28-06.49.33:962][701]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2019.10.28-06.52.27:324][710]BlueprintLog: New page: Compile Quest
+[2019.10.28-06.52.27:656][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.10.28-06.53.05:570][186]BlueprintLog: New page: Compile Quest
+[2019.10.28-06.53.05:891][186]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.10.28-06.53.05:911][186]BlueprintLog: New page: Compile Quest
+[2019.10.28-06.53.06:229][186]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.10.28-06.53.07:338][290]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.10.28-06.53.07:507][290]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.28-06.53.07:554][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.10.28-06.53.07:865][290]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/ThirdPersonExampleMapBA4A1CCF42D0C3351BA2DB98411A540E.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.28-06.53.07:892][290]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.378
+[2019.10.28-06.53.07:894][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EasyQuest/QuestSystem/Quests/Quest" FILE="C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2019.10.28-06.53.08:004][290]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Quest06DFAB544976D959E1217DAEEBDDAD3B.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quests/Quest.uasset'
+[2019.10.28-06.53.21:434][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-06.53.23:161][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
