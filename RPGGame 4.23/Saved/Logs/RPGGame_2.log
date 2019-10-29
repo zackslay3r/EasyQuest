@@ -855,3 +855,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-07.17.12:533][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha' took 0.370
 [2019.10.29-07.17.12:533][746]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.370
 [2019.10.29-07.23.19:150][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-13.29.49:641][532]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.29-13.29.52:377][534]LogUObjectHash: Compacting FUObjectHashTables data took  30.46ms
+[2019.10.29-13.29.53:025][534]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.29-13.29.53:135][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.10.29-13.29.53:389][534]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.29-13.29.53:935][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.10.29-13.29.58:529][534]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/MapAlpha02E6B77B429016B046E672926B57AAF4.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Maps/MapAlpha.umap'
+[2019.10.29-13.29.58:819][534]LogFileHelpers: Saving map 'MapAlpha' took 5.388
+[2019.10.29-13.29.58:826][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EasyQuest/QuestSystem/Quests/Quest" FILE="C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2019.10.29-13.29.59:257][534]LogSavePackage: Moving 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Saved/Quest01EB708646ED065EB9EFC0AB6985E3C7.tmp' to 'C:/Users/zacka/Desktop/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quests/Quest.uasset'
+[2019.10.29-13.30.00:965][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
