@@ -1,0 +1,988 @@
+﻿Log file open, 11/11/19 14:26:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RPGGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.069198
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 660 Ti
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.11-03.26.34:500][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.11-03.26.34:500][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.11-03.26.34:500][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.11-03.26.34:506][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.11-03.26.34:506][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.11-03.26.34:507][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.11-03.26.34:507][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.11-03.26.34:507][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.11-03.26.34:509][  0]LogHAL: Display: Platform has ~ 32 GB [34293100544 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.11-03.26.34:509][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.11-03.26.34:509][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.11-03.26.34:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.11-03.26.34:510][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.11-03.26.34:511][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.11-03.26.34:511][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.11-03.26.34:511][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.11-03.26.34:511][  0]LogInit: Computer: CAN-47344D
+[2019.11.11-03.26.34:511][  0]LogInit: User: s171842
+[2019.11.11-03.26.34:511][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.11-03.26.34:511][  0]LogInit: High frequency timer resolution =3.328122 MHz
+[2019.11.11-03.26.34:511][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.11.11-03.26.34:511][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.11-03.26.34:511][  0]LogMemory: Process Physical Memory: 100.45 MB used, 100.45 MB peak
+[2019.11.11-03.26.34:511][  0]LogMemory: Process Virtual Memory: 100.48 MB used, 100.48 MB peak
+[2019.11.11-03.26.34:511][  0]LogMemory: Physical Memory: 5805.45 MB used,  26899.00 MB free, 32704.45 MB total
+[2019.11.11-03.26.34:511][  0]LogMemory: Virtual Memory: 4679.91 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.11.11-03.26.34:513][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.11-03.26.34:532][  0]LogInit: Using OS detected language (en-US).
+[2019.11.11-03.26.34:532][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.11-03.26.34:532][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.11-03.26.34:695][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.11-03.26.34:723][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.11-03.26.34:723][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.11-03.26.34:861][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.11-03.26.34:861][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.11-03.26.34:913][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660 Ti' (Feature Level 11_0)
+[2019.11.11-03.26.34:914][  0]LogD3D11RHI:       1998/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.11-03.26.34:915][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.11-03.26.34:915][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.11-03.26.34:915][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.11-03.26.34:920][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.11-03.26.34:921][  0]LogD3D11RHI:     GPU DeviceId: 0x1183 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.11-03.26.34:921][  0]LogWindows: EnumDisplayDevices:
+[2019.11.11-03.26.34:921][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:1)
+[2019.11.11-03.26.34:921][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660 Ti' (P:1 D:1)
+[2019.11.11-03.26.34:921][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2019.11.11-03.26.34:921][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2019.11.11-03.26.34:921][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.11-03.26.34:921][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660 Ti
+[2019.11.11-03.26.34:921][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.11.11-03.26.34:921][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.11.11-03.26.34:921][  0]LogRHI: Texture pool is 1398 MB (70% of 1998 MB)
+[2019.11.11-03.26.34:956][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.11-03.26.34:973][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.11-03.26.35:239][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.11-03.26.35:246][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.11-03.26.35:254][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.11-03.26.35:262][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.11-03.26.35:271][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.11-03.26.35:278][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.11-03.26.35:287][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.11-03.26.35:295][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.11-03.26.35:298][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.11-03.26.35:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.11-03.26.35:327][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.11-03.26.35:341][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.11-03.26.35:341][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.11-03.26.35:352][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.11-03.26.35:352][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.11-03.26.35:356][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.11-03.26.35:362][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.11-03.26.35:368][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.11-03.26.35:375][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.11-03.26.35:394][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.11-03.26.35:395][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.11-03.26.35:395][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.11-03.26.35:402][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.11-03.26.35:442][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Intermediate/Shaders/WorkingDirectory/15168/).
+[2019.11.11-03.26.35:442][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/s171842/AppData/Local/Temp/UnrealShaderWorkingDir/956E3402428BF3E1BFC335B54A79A7D7/'.
+[2019.11.11-03.26.35:444][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.11-03.26.35:444][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.11-03.26.35:444][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.11-03.26.36:004][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.11-03.26.36:049][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/s171842/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.11-03.26.36:049][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/s171842/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.11-03.26.36:049][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.11-03.26.36:049][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.11-03.26.36:049][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.11-03.26.36:049][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.11-03.26.36:060][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.11-03.26.36:060][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.11-03.26.36:060][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.11-03.26.36:061][  0]LogDerivedDataCache: Using Local data cache path C:/Users/s171842/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.11-03.26.36:061][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.11-03.26.36:061][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.11-03.26.36:081][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.11-03.26.36:083][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.11-03.26.36:084][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.11-03.26.36:130][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2019.11.11-03.26.36:371][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.11-03.26.36:504][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.11-03.26.36:504][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.11-03.26.36:504][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.11-03.26.36:504][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.11-03.26.36:504][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.11-03.26.36:512][  0]LogNetVersion: RPGGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3579892519)
+[2019.11.11-03.26.36:918][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.057130 seconds
+[2019.11.11-03.26.36:925][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.11-03.26.36:925][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.11-03.26.36:925][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.11-03.26.37:448][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.37:448][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.37:448][  0]LogPackageName: SearchForPackageOnDisk took   0.093s, but failed to resolve JW_FlameDungeon.
+[2019.11.11-03.26.37:448][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2019.11.11-03.26.37:448][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.37:448][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.37:448][  0]LogPackageName: SearchForPackageOnDisk took   0.099s, but failed to resolve JW_FlameDungeon.
+[2019.11.11-03.26.37:448][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2019.11.11-03.26.37:703][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.11-03.26.37:705][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.11-03.26.37:750][  0]SourceControl: Source control is disabled
+[2019.11.11-03.26.38:239][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.11-03.26.38:316][  0]LogOcInput: OculusInput pre-init called
+[2019.11.11-03.26.38:321][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.11-03.26.38:321][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.11-03.26.38:383][  0]LogEngine: Initializing Engine...
+[2019.11.11-03.26.38:384][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.11-03.26.38:384][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.11-03.26.38:593][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.11-03.26.38:604][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.11-03.26.38:620][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.11-03.26.38:637][  0]LogInit: FAudioDevice initialized.
+[2019.11.11-03.26.38:637][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.11-03.26.38:710][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.38:710][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.38:710][  0]LogDerivedDataCache: Saved boot cache 0.07s 73MB C:/Users/s171842/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.11-03.26.38:719][  0]LogInit: Texture streaming: Enabled
+[2019.11.11-03.26.38:740][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.11-03.26.38:825][  0]LogPackageName: SearchForPackageOnDisk took   0.105s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2019.11.11-03.26.38:825][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2019.11.11-03.26.38:825][  0]LogInit: Transaction tracking system initialized
+[2019.11.11-03.26.38:860][  0]BlueprintLog: New page: Editor Load
+[2019.11.11-03.26.38:931][  0]LocalizationService: Localization service is disabled
+[2019.11.11-03.26.39:188][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.39:188][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.39:188][  0]LogPackageName: SearchForPackageOnDisk took   0.114s, but failed to resolve JW_Ice_Mountain.
+[2019.11.11-03.26.39:188][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.11.11-03.26.39:188][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.39:188][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.39:188][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.11-03.26.39:188][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.11-03.26.39:410][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/' took 0.03s
+[2019.11.11-03.26.39:410][  0]LogPackageName: SearchForPackageOnDisk took   0.097s, but failed to resolve FX_Meshes.
+[2019.11.11-03.26.39:410][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.11.11-03.26.39:410][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.39:410][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.39:410][  0]LogPackageName: SearchForPackageOnDisk took   0.098s, but failed to resolve FX_Meshes.
+[2019.11.11-03.26.39:410][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.11.11-03.26.39:445][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.11-03.26.39:446][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.11-03.26.39:464][  0]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.39:464][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.39:561][  0]LogPackageName: SearchForPackageOnDisk took   0.098s, but failed to resolve 'FX_Ambient.
+[2019.11.11-03.26.39:561][  0]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2019.11.11-03.26.39:595][  0]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.39:595][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.39:679][  0]LogPackageName: SearchForPackageOnDisk took   0.094s, but failed to resolve CastleEffects.
+[2019.11.11-03.26.39:679][  0]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2019.11.11-03.26.39:951][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.39:951][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.40:036][  0]LogPackageName: SearchForPackageOnDisk took   0.088s, but failed to resolve StaticMesh'FX_Meshes.
+[2019.11.11-03.26.40:036][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2019.11.11-03.26.40:052][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.40:052][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.40:137][  0]LogPackageName: SearchForPackageOnDisk took   0.087s to resolve m_FogSheet_02.
+[2019.11.11-03.26.40:255][  0]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.40:255][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.40:357][  0]LogPackageName: SearchForPackageOnDisk took   0.091s, but failed to resolve FX_Test_LAN.
+[2019.11.11-03.26.40:357][  0]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2019.11.11-03.26.40:728][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.40:728][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.40:814][  0]LogPackageName: SearchForPackageOnDisk took   0.090s to resolve m_FogSheet_02.
+[2019.11.11-03.26.40:814][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.40:814][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.40:900][  0]LogPackageName: SearchForPackageOnDisk took   0.090s to resolve m_FogSheet_02.
+[2019.11.11-03.26.40:900][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.40:900][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.41:003][  0]LogPackageName: SearchForPackageOnDisk took   0.090s to resolve m_FogSheet_02.
+[2019.11.11-03.26.43:224][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.11.11-03.26.43:224][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.11-03.26.43:352][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.11-03.26.44:574][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.11-03.26.44:622][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.11-03.26.44:623][  0]Cmd: MAP LOAD FILE="C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Maps/MapAlpha.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.11-03.26.44:623][  0]LightingResults: New page: Lighting Build
+[2019.11.11-03.26.44:626][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-03.26.44:626][  0]MapCheck: New page: Map Check
+[2019.11.11-03.26.44:626][  0]LightingResults: New page: Lighting Build
+[2019.11.11-03.26.44:654][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.11.11-03.26.45:786][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.45:786][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.45:786][  0]LogTexture: Display: Building textures: Mana_NoFill (BGRA8, 202X19)
+[2019.11.11-03.26.45:786][  0]LogTexture: Display: Building textures: Mana_Fill (BGRA8, 210X26)
+[2019.11.11-03.26.45:786][  0]LogTexture: Display: Building textures: Icon2NoFill (BGRA8, 61X61)
+[2019.11.11-03.26.45:786][  0]LogTexture: Display: Building textures: Icon1NoFill (BGRA8, 61X61)
+[2019.11.11-03.26.45:786][  0]LogTexture: Display: Building textures: Icon2Fill (BGRA8, 61X61)
+[2019.11.11-03.26.45:786][  0]LogTexture: Display: Building textures: Icon1Fill (BGRA8, 61X61)
+[2019.11.11-03.26.45:786][  0]LogTexture: Display: Building textures: Health_NoFill (BGRA8, 202X19)
+[2019.11.11-03.26.45:786][  0]LogTexture: Display: Building textures: ActionBarEmpty (BGRA8, 65X65)
+[2019.11.11-03.26.45:786][  0]LogTexture: Display: Building textures: Health_Fill (BGRA8, 208X26)
+[2019.11.11-03.26.45:786][  0]LogTexture: Display: Building textures: border (BGRA8, 420X279)
+[2019.11.11-03.26.45:786][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.45:786][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.45:945][  0]LogTexture: Display: Building textures: T_Flare_Streaks_02 (AutoDXT, 512X512)
+[2019.11.11-03.26.45:945][  0]LogTexture: Display: Building textures: T_starFlare_02 (AutoDXT, 256X256)
+[2019.11.11-03.26.45:945][  0]LogTexture: Display: Building textures: T_LightCone (AutoDXT, 256X256)
+[2019.11.11-03.26.45:945][  0]LogTexture: Display: Building textures: SpacePirate_specular (AutoDXT, 2048X2048)
+[2019.11.11-03.26.45:946][  0]LogPackageName: SearchForPackageOnDisk took   0.163s, but failed to resolve JW_Ice_Mountain.
+[2019.11.11-03.26.45:946][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.11.11-03.26.45:946][  0]LogTexture: Display: Building textures: SpacePirate_diffuse (AutoDXT, 2048X2048)
+[2019.11.11-03.26.45:946][  0]LogTexture: Display: Building textures: T_GlowNoise_Circular_02 (AutoDXT, 256X256)
+[2019.11.11-03.26.45:946][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.11.11-03.26.45:946][  0]LogTexture: Display: Building textures: SpacePirate_normal (BC5, 2048X2048)
+[2019.11.11-03.26.45:946][  0]LogTexture: Display: Building textures: T_SoftFallOff (AutoDXT, 256X256)
+[2019.11.11-03.26.45:946][  0]LogPackageName: SearchForPackageOnDisk took   0.159s, but failed to resolve FX_Meshes.
+[2019.11.11-03.26.45:946][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.11.11-03.26.45:973][  0]LogTexture: Display: Building textures: T_starFlare_01 (AutoDXT, 256X256)
+[2019.11.11-03.26.45:973][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.11.11-03.26.45:973][  0]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Master_DepthFade, compiling. 
+[2019.11.11-03.26.46:103][  0]LogTexture: Display: Building textures: T_Pickup_GoldBag_N (BC5, 512X512)
+[2019.11.11-03.26.46:103][  0]LogTexture: Display: Building textures: T_Pickup_GoldBag_D (AutoDXT, 512X512)
+[2019.11.11-03.26.46:103][  0]LogTexture: Display: Building textures: T_Sparks_04_SubUV_1_4 (AutoDXT, 512X512)
+[2019.11.11-03.26.46:103][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2019.11.11-03.26.46:103][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2019.11.11-03.26.46:103][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2019.11.11-03.26.46:103][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2019.11.11-03.26.46:103][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 31
+[2019.11.11-03.26.46:103][  0]LogStaticMesh: Building static mesh SM_BlastWave...
+[2019.11.11-03.26.46:145][  0]LogTexture: Display: Building textures: T_Fire_subUV_6X6 (AutoDXT, 1024X1024)
+[2019.11.11-03.26.46:146][  0]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave.SM_BlastWave
+[2019.11.11-03.26.46:177][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.11.11-03.26.46:178][  0]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Master, compiling. 
+[2019.11.11-03.26.46:216][  0]LogTexture: Display: Building textures: T_Black_32 (AutoDXT, 32X32)
+[2019.11.11-03.26.46:219][  0]LogMaterial: Display: Missing cached shader map for material M_Trans_Sprite_Master, compiling. 
+[2019.11.11-03.26.46:265][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.11.11-03.26.46:265][  0]LogTexture: Display: Building textures: T_HealHeart_02 (AutoDXT, 512X512)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: T_SwipeTrail (AutoDXT, 512X512)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: T_BlastWave (AutoDXT, 1024X1024)
+[2019.11.11-03.26.49:191][  0]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.49:191][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.11.11-03.26.49:191][  0]LogPackageName: SearchForPackageOnDisk took   0.191s to resolve S_Survival_CA_Chicken_02.
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: T_Targeting_01 (AutoDXT, 256X256)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: FX_Glow_12alpha (AutoDXT, 512X512)
+[2019.11.11-03.26.49:191][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.49:191][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: T_Tile_Noise_Tendril_01 (AutoDXT, 1024X1024)
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: T_Resurrection_Phoenix (AutoDXT, 1024X1024)
+[2019.11.11-03.26.49:191][  0]LogPackageName: SearchForPackageOnDisk took   0.221s, but failed to resolve JW_Ice_Mountain.
+[2019.11.11-03.26.49:191][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.11.11-03.26.49:191][  0]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.11-03.26.49:191][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.11-03.26.49:191][  0]LogTexture: Display: Building textures: herb (BGRA8, 215X215)
+[2019.11.11-03.26.49:191][  0]LogPackageName: SearchForPackageOnDisk took   0.206s, but failed to resolve Env_ALL_Artifacts.
+[2019.11.11-03.26.49:191][  0]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2019.11.11-03.26.49:191][  0]LogMaterial: Display: Missing cached shader map for material SpacePirate_M, compiling. 
+[2019.11.11-03.26.49:287][  0]LogSkeletalMesh: Building Skeletal Mesh Eve_by_J__Gonzales...
+[2019.11.11-03.26.49:347][  0]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/EasyQuest/ThirdPersonBP/Blueprints/MageCharacter/Eve_by_J__Gonzales.Eve_by_J__Gonzales
+[2019.11.11-03.26.49:497][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Enemy, compiling. 
+[2019.11.11-03.26.49:693][  0]LogStaticMesh: Building static mesh SM_Gold_Bag_Pickup...
+[2019.11.11-03.26.49:696][  0]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/SM_Gold_Bag_Pickup.SM_Gold_Bag_Pickup
+[2019.11.11-03.26.49:701][  0]LogMaterial: Display: Missing cached shader map for material M_GoldBag, compiling. 
+[2019.11.11-03.26.49:733][  0]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_SubUV_Master, compiling. 
+[2019.11.11-03.26.49:781][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Standing_Walk_Right_inPlace.Standing_Walk_Right_inPlace
+[2019.11.11-03.26.49:792][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Standing_Walk_Right_inPlace.Standing_Walk_Right_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:794][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Standing_Walk_Left_inPlace.Standing_Walk_Left_inPlace
+[2019.11.11-03.26.49:794][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Standing_Walk_Left_inPlace.Standing_Walk_Left_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:795][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Standing_Walk_Forward_inPlace.Standing_Walk_Forward_inPlace
+[2019.11.11-03.26.49:795][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Standing_Walk_Forward_inPlace.Standing_Walk_Forward_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:797][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Standing_Walk_Back_inPlace.Standing_Walk_Back_inPlace
+[2019.11.11-03.26.49:797][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Standing_Walk_Back_inPlace.Standing_Walk_Back_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:798][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Standing_Run_Right_inPlace.Standing_Run_Right_inPlace
+[2019.11.11-03.26.49:798][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Standing_Run_Right_inPlace.Standing_Run_Right_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:799][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Standing_Run_Left_inPlace.Standing_Run_Left_inPlace
+[2019.11.11-03.26.49:799][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Standing_Run_Left_inPlace.Standing_Run_Left_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:816][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Standing_Run_Forward_inPlace.Standing_Run_Forward_inPlace
+[2019.11.11-03.26.49:816][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Standing_Run_Forward_inPlace.Standing_Run_Forward_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:817][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Standing_Run_Back_inPlace.Standing_Run_Back_inPlace
+[2019.11.11-03.26.49:817][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Standing_Run_Back_inPlace.Standing_Run_Back_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:817][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/standing_idle.standing_idle
+[2019.11.11-03.26.49:818][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/standing_idle.standing_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:819][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Standing_1H_Magic_Attack_01.Standing_1H_Magic_Attack_01
+[2019.11.11-03.26.49:819][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Standing_1H_Magic_Attack_01.Standing_1H_Magic_Attack_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:823][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/standing_1H_cast_spell_01.standing_1H_cast_spell_01
+[2019.11.11-03.26.49:824][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/standing_1H_cast_spell_01.standing_1H_cast_spell_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.11-03.26.49:829][  0]LogStaticMesh: Building static mesh SM_Spiral_Swirl_01...
+[2019.11.11-03.26.49:830][  0]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_Spiral_Swirl_01.SM_Spiral_Swirl_01
+[2019.11.11-03.26.49:833][  0]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_2Sided_Master, compiling. 
+[2019.11.11-03.26.49:991][  0]LogStaticMesh: Building static mesh SM_Shockwave_01...
+[2019.11.11-03.26.49:995][  0]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_Shockwave_01.SM_Shockwave_01
+[2019.11.11-03.26.50:000][  0]LogMaterial: Display: Missing cached shader map for material M_Targeting_Enemy, compiling. 
+[2019.11.11-03.26.50:038][  0]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Pan_Emis_Mask_Master, compiling. 
+[2019.11.11-03.26.50:072][  0]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Pan_Emis_Mask_Master, compiling. 
+[2019.11.11-03.26.50:144][  0]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.11-03.26.50:269][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.11-03.26.50:337][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.11.11-03.26.50:337][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.11-03.26.50:337][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2019.11.11-03.26.50:337][  0]LogFileHelpers: Loading map 'MapAlpha' took 5.715
+[2019.11.11-03.26.50:736][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.26.50:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.26.50:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.26.50:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.26.50:786][  0]LogCollectionManager: Loaded 0 collections in 0.001957 seconds
+[2019.11.11-03.26.50:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Collections/' took 0.00s
+[2019.11.11-03.26.50:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/Developers/s171842/Collections/' took 0.00s
+[2019.11.11-03.26.50:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/Collections/' took 0.00s
+[2019.11.11-03.26.50:839][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.11-03.26.50:850][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2863 classes and 680 folders.
+[2019.11.11-03.26.50:904][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.11-03.26.51:452][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.11-03.26.51:505][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.11-03.26.51:845][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 710
+[2019.11.11-03.26.51:845][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.11-03.26.51:867][  0]LogSlate: Took 0.015702 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.11-03.26.52:056][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.11-03.26.52:548][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 700
+[2019.11.11-03.26.52:548][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-03.26.52:593][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.11.11-03.26.52:604][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.11-03.26.52:605][  0]LogLoad: (Engine Initialization) Total time: 18.90 seconds
+[2019.11.11-03.26.52:605][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.11-03.26.52:696][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.11-03.26.52:735][  0]LogSlate: Took 0.018454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.11-03.26.52:743][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/' took 0.13s
+[2019.11.11-03.26.52:817][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 690
+[2019.11.11-03.26.53:411][ 61]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 680
+[2019.11.11-03.26.53:653][ 85]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.11-03.26.54:260][128]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 670
+[2019.11.11-03.26.54:537][158]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 660
+[2019.11.11-03.26.55:677][291]LogAssetRegistry: Asset discovery search completed in 19.5490 seconds
+[2019.11.11-03.26.55:684][291]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.11.11-03.26.55:684][291]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.11.11-03.26.56:766][413]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 650
+[2019.11.11-03.26.56:775][414]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 640
+[2019.11.11-03.26.57:144][457]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 630
+[2019.11.11-03.26.57:914][549]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 620
+[2019.11.11-03.26.58:791][654]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 610
+[2019.11.11-03.26.59:408][728]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 600
+[2019.11.11-03.26.59:732][767]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 590
+[2019.11.11-03.27.00:569][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 580
+[2019.11.11-03.27.01:495][977]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 570
+[2019.11.11-03.27.02:273][ 70]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 560
+[2019.11.11-03.27.03:123][149]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 550
+[2019.11.11-03.27.03:272][161]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 540
+[2019.11.11-03.27.04:046][217]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 530
+[2019.11.11-03.27.05:658][337]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 520
+[2019.11.11-03.27.05:719][341]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 510
+[2019.11.11-03.27.06:534][406]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 500
+[2019.11.11-03.27.06:908][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 490
+[2019.11.11-03.27.07:871][510]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 480
+[2019.11.11-03.27.08:704][575]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 470
+[2019.11.11-03.27.08:815][584]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 460
+[2019.11.11-03.27.09:615][648]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 450
+[2019.11.11-03.27.10:040][681]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 440
+[2019.11.11-03.27.10:593][725]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 430
+[2019.11.11-03.27.11:785][821]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 420
+[2019.11.11-03.27.12:081][845]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 410
+[2019.11.11-03.27.12:339][866]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 400
+[2019.11.11-03.27.12:450][875]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 390
+[2019.11.11-03.27.13:989][999]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 380
+[2019.11.11-03.27.14:185][ 15]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 370
+[2019.11.11-03.27.14:512][ 41]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 360
+[2019.11.11-03.27.14:525][ 42]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 350
+[2019.11.11-03.27.16:620][210]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 340
+[2019.11.11-03.27.16:670][214]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 330
+[2019.11.11-03.27.16:802][224]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 320
+[2019.11.11-03.27.16:991][239]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 310
+[2019.11.11-03.27.18:533][363]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 300
+[2019.11.11-03.27.19:248][420]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 290
+[2019.11.11-03.27.19:692][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 280
+[2019.11.11-03.27.19:859][468]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 270
+[2019.11.11-03.27.21:085][568]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 260
+[2019.11.11-03.27.21:220][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 250
+[2019.11.11-03.27.21:442][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 240
+[2019.11.11-03.27.22:185][656]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 230
+[2019.11.11-03.27.22:779][704]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 220
+[2019.11.11-03.27.24:083][809]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 210
+[2019.11.11-03.27.24:422][837]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 200
+[2019.11.11-03.27.24:535][846]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 190
+[2019.11.11-03.27.24:902][876]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 180
+[2019.11.11-03.27.26:047][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 170
+[2019.11.11-03.27.26:430][995]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 160
+[2019.11.11-03.27.26:580][  7]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 150
+[2019.11.11-03.27.27:774][101]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 140
+[2019.11.11-03.27.28:315][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 130
+[2019.11.11-03.27.29:131][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 120
+[2019.11.11-03.27.29:251][221]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 110
+[2019.11.11-03.27.30:054][283]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 100
+[2019.11.11-03.27.30:112][288]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 90
+[2019.11.11-03.27.30:852][347]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2019.11.11-03.27.31:908][431]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2019.11.11-03.27.32:168][452]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2019.11.11-03.27.33:019][520]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2019.11.11-03.27.33:720][577]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2019.11.11-03.27.33:790][583]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2019.11.11-03.27.34:792][663]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.11.11-03.27.35:476][718]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.11.11-03.27.35:830][747]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.11.11-03.27.35:982][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.11.11-03.27.36:230][779]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.11.11-03.27.36:281][783]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.11-03.27.36:327][787]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.11.11-03.27.36:563][805]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.11-03.27.41:124][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-03.27.41:362][868]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-03.27.41:392][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.27.41:405][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-03.27.41:421][868]PIE: New page: PIE session: MapAlpha (Nov 12, 2019, 1:27:41 AM)
+[2019.11.11-03.27.41:435][868]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.11-03.27.41:444][868]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.11-03.27.41:460][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016342s)
+[2019.11.11-03.27.41:461][868]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.11-03.27.41:461][868]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2019.11.11-03.27.41:461][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.017812s)
+[2019.11.11-03.27.41:487][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.11-03.27.41:500][868]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.11-03.27.41:513][868]LogInit: FAudioDevice initialized.
+[2019.11.11-03.27.41:524][868]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-03.27.41:549][868]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.11-14.27.41
+[2019.11.11-03.27.41:657][868]LogWorld: Bringing up level for play took: 0.110777
+[2019.11.11-03.27.41:657][868]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.11.11-03.27.41:714][868]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.11-03.27.41:776][868]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 1.01
+[2019.11.11-03.27.41:776][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.27.46:840][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-03.27.48:162][594]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-03.27.49:303][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-03.27.54:074][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-03.28.13:747][660]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-03.28.15:130][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-03.28.17:706][135]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-03.28.18:847][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-03.28.23:917][836]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-03.28.25:033][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-03.28.26:594][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-03.28.29:860][549]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-03.28.30:902][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-03.28.39:348][647]LogBlueprintUserMessages: [Enemy_2] hit
+[2019.11.11-03.28.42:744][ 52]LogBlueprintUserMessages: [Enemy_2] hit
+[2019.11.11-03.28.46:194][465]LogBlueprintUserMessages: [Enemy_2] hit
+[2019.11.11-03.28.49:894][909]LogBlueprintUserMessages: [Enemy_2] hit
+[2019.11.11-03.28.55:536][578]LogBlueprintUserMessages: [Enemy2] hit
+[2019.11.11-03.28.58:928][985]LogBlueprintUserMessages: [Enemy2] hit
+[2019.11.11-03.29.02:337][394]LogBlueprintUserMessages: [Enemy2] hit
+[2019.11.11-03.29.06:229][861]LogBlueprintUserMessages: [Enemy2] hit
+[2019.11.11-03.29.07:032][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-03.29.15:180][935]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-03.29.16:663][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-03.29.19:047][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.29.19:259][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.29.19:259][399]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.11-03.29.19:272][399]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-03.29.19:294][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-03.29.19:295][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.29.19:335][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.29.19:351][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.11-03.29.19:370][400]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.11.11-03.29.48:470][838]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Bump_StaticMesh)
+[2019.11.11-03.29.49:014][838]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-03.29.59:010][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-03.30.11:066][114]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EasyQuest/ThirdPersonBP/Blueprints/MageCharacter/MagicCharacter.MagicCharacter
+[2019.11.11-03.30.11:493][114]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.11.11-03.30.12:656][114]LogSlate: Took 0.015206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.11-03.30.12:969][115]LogSlate: Took 0.004685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.11-03.30.29:136][243]BlueprintLog: New page: Compile MagicCharacter
+[2019.11.11-03.30.29:524][243]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.11-03.30.29:598][243]BlueprintLog: New page: Compile MagicCharacter
+[2019.11.11-03.30.29:869][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.11.11-03.30.33:020][357]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-03.30.33:036][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.30.33:036][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-03.30.33:036][357]PIE: New page: PIE session: MapAlpha (Nov 12, 2019, 1:30:33 AM)
+[2019.11.11-03.30.33:037][357]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.11-03.30.33:049][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012061s)
+[2019.11.11-03.30.33:050][357]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.11-03.30.33:050][357]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2019.11.11-03.30.33:050][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.013365s)
+[2019.11.11-03.30.33:086][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.11.11-03.30.33:091][357]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.11-03.30.33:104][357]LogInit: FAudioDevice initialized.
+[2019.11.11-03.30.33:139][357]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-03.30.33:143][357]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.11-14.30.33
+[2019.11.11-03.30.33:144][357]LogWorld: Bringing up level for play took: 0.004366
+[2019.11.11-03.30.33:144][357]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.11.11-03.30.33:150][357]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 0.383
+[2019.11.11-03.30.33:150][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.30.38:445][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.30.38:481][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.30.38:481][989]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.11-03.30.38:482][989]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-03.30.38:503][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-03.30.38:503][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.30.38:541][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.30.38:545][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.11.11-03.30.38:562][990]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.11-03.30.41:535][127]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-03.31.21:549][421]BlueprintLog: New page: Compile MagicCharacter
+[2019.11.11-03.31.21:808][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.11.11-03.31.24:477][543]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-03.31.24:494][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.31.24:494][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-03.31.24:494][543]PIE: New page: PIE session: MapAlpha (Nov 12, 2019, 1:31:24 AM)
+[2019.11.11-03.31.24:494][543]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.11-03.31.24:506][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011857s)
+[2019.11.11-03.31.24:507][543]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.11-03.31.24:507][543]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2019.11.11-03.31.24:507][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.013152s)
+[2019.11.11-03.31.24:544][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.11.11-03.31.24:546][543]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.11-03.31.24:557][543]LogInit: FAudioDevice initialized.
+[2019.11.11-03.31.24:566][543]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-03.31.24:570][543]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.11-14.31.24
+[2019.11.11-03.31.24:571][543]LogWorld: Bringing up level for play took: 0.004116
+[2019.11.11-03.31.24:571][543]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.11.11-03.31.24:576][543]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha -0.194
+[2019.11.11-03.31.24:576][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.31.28:188][815]LogBlueprintUserMessages: [TopRight] This is not the magic character.
+[2019.11.11-03.31.31:558][ 88]LogBlueprintUserMessages: [Enemy_2] hit
+[2019.11.11-03.31.33:152][219]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.31.33:153][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.31.33:153][219]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.11-03.31.33:153][219]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-03.31.33:181][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-03.31.33:181][219]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.31.33:220][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.31.33:224][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.11.11-03.31.33:382][220]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.11-03.31.35:014][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-03.31.54:013][  3]BlueprintLog: New page: Compile MagicCharacter
+[2019.11.11-03.31.54:270][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.11.11-03.31.55:062][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-03.31.55:078][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.31.55:078][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-03.31.55:078][ 50]PIE: New page: PIE session: MapAlpha (Nov 12, 2019, 1:31:55 AM)
+[2019.11.11-03.31.55:078][ 50]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.11-03.31.55:088][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010560s)
+[2019.11.11-03.31.55:089][ 50]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.11-03.31.55:090][ 50]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2019.11.11-03.31.55:090][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.011857s)
+[2019.11.11-03.31.55:130][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.11.11-03.31.55:133][ 50]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.11-03.31.55:144][ 50]LogInit: FAudioDevice initialized.
+[2019.11.11-03.31.55:152][ 50]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-03.31.55:156][ 50]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.11-14.31.55
+[2019.11.11-03.31.55:157][ 50]LogWorld: Bringing up level for play took: 0.004426
+[2019.11.11-03.31.55:157][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.11.11-03.31.55:162][ 50]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 0.39
+[2019.11.11-03.31.55:162][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.31.58:507][332]LogBlueprintUserMessages: [TopRight] This is not the magic character.
+[2019.11.11-03.32.02:014][634]LogBlueprintUserMessages: [TopRight] This is not the magic character.
+[2019.11.11-03.32.05:244][908]LogBlueprintUserMessages: [TopRight] This is not the magic character.
+[2019.11.11-03.32.07:111][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.32.07:111][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.32.07:111][ 66]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.11-03.32.07:112][ 66]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-03.32.07:135][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-03.32.07:135][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.32.07:169][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.32.07:173][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.11.11-03.32.07:333][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.11-03.32.08:913][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-03.32.12:999][561]BlueprintLog: New page: Compile MagicCharacter
+[2019.11.11-03.32.13:249][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.11.11-03.32.13:298][561]BlueprintLog: New page: Compile MagicCharacter
+[2019.11.11-03.32.13:564][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.11.11-03.32.21:796][272]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-03.32.21:812][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.32.21:812][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-03.32.21:812][272]PIE: New page: PIE session: MapAlpha (Nov 12, 2019, 1:32:21 AM)
+[2019.11.11-03.32.21:813][272]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.11-03.32.21:824][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011224s)
+[2019.11.11-03.32.21:825][272]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.11-03.32.21:825][272]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2019.11.11-03.32.21:825][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.012806s)
+[2019.11.11-03.32.21:862][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.11-03.32.21:866][272]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.11-03.32.21:876][272]LogInit: FAudioDevice initialized.
+[2019.11.11-03.32.21:887][272]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-03.32.21:891][272]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.11-14.32.21
+[2019.11.11-03.32.21:892][272]LogWorld: Bringing up level for play took: 0.004368
+[2019.11.11-03.32.21:892][272]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.11.11-03.32.21:897][272]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha -0.877
+[2019.11.11-03.32.21:897][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.32.28:801][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.32.28:802][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.32.28:802][851]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.11-03.32.28:802][851]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-03.32.28:829][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-03.32.28:830][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.11-03.32.28:862][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-03.32.28:866][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.11.11-03.32.29:023][852]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.11-03.32.33:655][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.11.11-03.32.33:675][222]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-03.32.33:834][222]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-03.32.33:877][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.11-03.32.34:106][222]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MapAlpha26EF54BD484334F2C3A7F5B8473138B8.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Maps/MapAlpha.umap'
+[2019.11.11-03.32.34:155][222]LogFileHelpers: Saving map 'MapAlpha' took 0.314
+[2019.11.11-03.32.34:335][222]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MagicCharacter664E005D45C4031604EF48AA3C41D62D.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Blueprints/MageCharacter/MagicCharacter.uasset'
+[2019.11.11-03.32.36:588][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
