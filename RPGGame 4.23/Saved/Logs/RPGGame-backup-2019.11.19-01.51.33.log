@@ -1,0 +1,1187 @@
+﻿Log file open, 11/19/19 12:32:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RPGGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.831260
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 660 Ti
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.19-01.32.27:167][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.19-01.32.27:167][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.32.27:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.19-01.32.27:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.32.27:168][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.32.27:280][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:280][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.19-01.32.27:280][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.19-01.32.27:280][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.19-01.32.27:281][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.19-01.32.27:286][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.19-01.32.27:297][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.19-01.32.27:317][  0]LogHAL: Display: Platform has ~ 32 GB [34293100544 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.19-01.32.27:317][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.19-01.32.27:317][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.19-01.32.27:317][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.32.27:318][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.19-01.32.27:318][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.19-01.32.27:318][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.19-01.32.27:322][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.19-01.32.27:322][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.19-01.32.27:322][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Final year/RPGGame 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.32.27:340][  0]LogInit: Computer: CAN-47344D
+[2019.11.19-01.32.27:340][  0]LogInit: User: s171842
+[2019.11.19-01.32.27:340][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.19-01.32.27:340][  0]LogInit: High frequency timer resolution =3.328123 MHz
+[2019.11.19-01.32.27:340][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.11.19-01.32.27:340][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.19-01.32.27:340][  0]LogMemory: Process Physical Memory: 100.61 MB used, 100.61 MB peak
+[2019.11.19-01.32.27:340][  0]LogMemory: Process Virtual Memory: 100.41 MB used, 100.41 MB peak
+[2019.11.19-01.32.27:340][  0]LogMemory: Physical Memory: 8233.02 MB used,  24471.43 MB free, 32704.45 MB total
+[2019.11.19-01.32.27:340][  0]LogMemory: Virtual Memory: 4679.91 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.11.19-01.32.27:343][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.19-01.32.27:990][  0]LogInit: Using OS detected language (en-US).
+[2019.11.19-01.32.27:990][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.19-01.32.28:077][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.19-01.32.28:763][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.19-01.32.29:378][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.19-01.32.29:378][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.19-01.32.31:550][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.19-01.32.31:550][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.19-01.32.31:604][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660 Ti' (Feature Level 11_0)
+[2019.11.19-01.32.31:604][  0]LogD3D11RHI:       1998/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.19-01.32.31:605][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.19-01.32.31:605][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.19-01.32.31:605][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.19-01.32.31:622][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.19-01.32.31:622][  0]LogD3D11RHI:     GPU DeviceId: 0x1183 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.19-01.32.31:622][  0]LogWindows: EnumDisplayDevices:
+[2019.11.19-01.32.31:622][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:1)
+[2019.11.19-01.32.31:622][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660 Ti' (P:1 D:1)
+[2019.11.19-01.32.31:622][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2019.11.19-01.32.31:623][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2019.11.19-01.32.31:623][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.19-01.32.31:623][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660 Ti
+[2019.11.19-01.32.31:623][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.11.19-01.32.31:623][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.11.19-01.32.31:623][  0]LogRHI: Texture pool is 1398 MB (70% of 1998 MB)
+[2019.11.19-01.32.31:662][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.19-01.32.31:901][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.19-01.32.32:724][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.19-01.32.32:792][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.19-01.32.32:831][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.19-01.32.32:852][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.19-01.32.32:888][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.19-01.32.32:926][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.19-01.32.32:948][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.19-01.32.32:968][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.19-01.32.32:988][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.19-01.32.33:109][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.19-01.32.33:123][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.19-01.32.33:217][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.19-01.32.33:217][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.19-01.32.33:240][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.19-01.32.33:241][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.19-01.32.33:294][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.19-01.32.33:311][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.19-01.32.33:331][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.19-01.32.33:356][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.19-01.32.33:392][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.19-01.32.33:392][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.19-01.32.33:392][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.19-01.32.33:543][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.19-01.32.34:250][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../Final year/RPGGame 4.23/Intermediate/Shaders/WorkingDirectory/8540/).
+[2019.11.19-01.32.34:250][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/s171842/AppData/Local/Temp/UnrealShaderWorkingDir/B8B8581F42ED15A4D259239C1F9017C7/'.
+[2019.11.19-01.32.34:252][  0]LogXGEController: Cleaning working directory: C:/Users/s171842/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.19-01.32.34:253][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.19-01.32.34:253][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.19-01.32.34:253][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.19-01.32.37:122][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.19-01.32.37:178][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/s171842/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.19-01.32.37:178][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/s171842/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.19-01.32.37:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Final year/RPGGame 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.19-01.32.37:178][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.19-01.32.37:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Final year/RPGGame 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.19-01.32.37:178][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.19-01.32.37:253][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.19-01.32.37:253][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.19-01.32.37:253][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.19-01.32.37:254][  0]LogDerivedDataCache: Using Local data cache path C:/Users/s171842/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.19-01.32.37:254][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.19-01.32.37:254][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.19-01.32.37:296][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.19-01.32.37:402][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.19-01.32.37:517][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.19-01.32.38:178][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2019.11.19-01.32.44:440][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.19-01.32.48:737][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.19-01.32.48:737][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.19-01.32.48:737][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.19-01.32.48:737][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.19-01.32.48:757][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.19-01.32.49:468][  0]LogNetVersion: RPGGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3579892519)
+[2019.11.19-01.32.53:526][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.446204 seconds
+[2019.11.19-01.32.53:532][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.19-01.32.53:532][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.19-01.32.53:532][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.19-01.33.02:557][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.19-01.33.02:721][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.19-01.33.03:582][  0]SourceControl: Source control is disabled
+[2019.11.19-01.33.03:817][  0]LogSourceControl: Warning: '../../../../Final year/RPGGame 4.23/' is not part of a Git repository
+[2019.11.19-01.33.05:374][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.19-01.33.06:277][  0]LogOcInput: OculusInput pre-init called
+[2019.11.19-01.33.06:365][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.19-01.33.06:365][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.19-01.33.07:427][  0]LogEngine: Initializing Engine...
+[2019.11.19-01.33.07:458][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.19-01.33.07:520][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.022 s
+[2019.11.19-01.33.08:152][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.19-01.33.08:505][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.19-01.33.08:632][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.19-01.33.08:650][  0]LogInit: FAudioDevice initialized.
+[2019.11.19-01.33.08:650][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.19-01.33.08:725][  0]LogDerivedDataCache: Saved boot cache 0.07s 73MB C:/Users/s171842/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.19-01.33.08:730][  0]LogInit: Texture streaming: Enabled
+[2019.11.19-01.33.08:949][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.19-01.33.08:949][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={146363F6-4670-2519-2CFD-51BD406734D3}
+[2019.11.19-01.33.09:604][  0]LogInit: Transaction tracking system initialized
+[2019.11.19-01.33.10:125][  0]BlueprintLog: New page: Editor Load
+[2019.11.19-01.33.11:420][  0]LocalizationService: Localization service is disabled
+[2019.11.19-01.33.14:942][  0]LogFileCache: Scanning file cache for directory 'D:/Final year/RPGGame 4.23/Content/' took 0.08s
+[2019.11.19-01.33.14:942][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.19-01.33.14:942][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.19-01.33.21:916][  0]LogSlate: Took 0.049696 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.19-01.33.52:912][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.11.19-01.33.52:913][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.19-01.33.52:997][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.19-01.34.04:147][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.11.19-01.34.04:147][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.19-01.34.04:566][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.19-01.34.04:645][  0]Cmd: MAP LOAD FILE="../../../../Final year/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Maps/MapAlpha.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.19-01.34.04:814][  0]LightingResults: New page: Lighting Build
+[2019.11.19-01.34.04:890][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-01.34.04:957][  0]MapCheck: New page: Map Check
+[2019.11.19-01.34.04:957][  0]LightingResults: New page: Lighting Build
+[2019.11.19-01.34.05:220][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.11.19-01.34.10:461][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.19-01.34.10:461][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.19-01.34.10:556][  0]LogPackageName: SearchForPackageOnDisk took   0.096s, but failed to resolve FX_Meshes.
+[2019.11.19-01.34.10:556][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.11.19-01.34.11:234][  0]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.19-01.34.11:856][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.19-01.34.11:976][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.11.19-01.34.11:977][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.19-01.34.12:093][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116.381ms to complete.
+[2019.11.19-01.34.12:093][  0]LogFileHelpers: Loading map 'MapAlpha' took 7.461
+[2019.11.19-01.34.13:258][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-01.34.13:279][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-01.34.13:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-01.34.13:292][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-01.34.13:340][  0]LogCollectionManager: Loaded 0 collections in 0.001359 seconds
+[2019.11.19-01.34.13:534][  0]LogFileCache: Scanning file cache for directory 'D:/Final year/RPGGame 4.23/Saved/Collections/' took 0.00s
+[2019.11.19-01.34.13:534][  0]LogFileCache: Scanning file cache for directory 'D:/Final year/RPGGame 4.23/Content/Developers/s171842/Collections/' took 0.00s
+[2019.11.19-01.34.13:534][  0]LogFileCache: Scanning file cache for directory 'D:/Final year/RPGGame 4.23/Content/Collections/' took 0.00s
+[2019.11.19-01.34.13:534][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.19-01.34.13:541][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2863 classes and 680 folders.
+[2019.11.19-01.34.13:598][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.19-01.34.15:138][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.19-01.34.15:190][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.19-01.34.15:700][  0]LogSlate: Took 0.027592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.19-01.34.15:726][  0]LogSlate: Took 0.015058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.19-01.34.16:065][  0]LogRenderer: Reallocating scene render targets to support 1460x564 Format 10 NumSamples 1 (Frame:1).
+[2019.11.19-01.34.16:486][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.19-01.34.16:486][  0]LogLoad: (Engine Initialization) Total time: 143.73 seconds
+[2019.11.19-01.34.16:486][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.19-01.34.16:763][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.19-01.34.16:862][  0]LogSlate: Took 0.015535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-01.34.16:995][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Final year/RPGGame 4.23/Content/' took 0.44s
+[2019.11.19-01.34.17:693][ 11]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-01.34.18:636][ 24]LogAssetRegistry: Asset discovery search completed in 100.4584 seconds
+[2019.11.19-01.34.18:640][ 24]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.11.19-01.34.18:640][ 24]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.11.19-01.34.20:428][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.36.41:114][533]AssetReimport: New page: Outstanding source content changes 11:36:41 PM
+[2019.11.19-01.36.41:168][534]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 D:/Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular.otf)
+[2019.11.19-01.36.42:960][534]LogSlate: Window 'Font Face Import Options' being destroyed
+[2019.11.19-01.36.43:146][534]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2019.11.19-01.36.43:156][535]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.19-01.36.43:157][535]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 D:/Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular.ttf)
+[2019.11.19-01.36.43:187][535]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-01.36.44:610][535]LogSlate: Window 'Font Face Import Options' being destroyed
+[2019.11.19-01.36.44:685][535]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2019.11.19-01.36.44:690][535]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-01.36.44:692][535]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.19-01.36.44:695][535]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.19-01.36.44:729][536]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-01.36.44:735][536]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.19-01.36.44:863][536]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/Bebas-Regular989868E0441DF1A1FE5665BEF3879056.tmp' to '../../../../Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular.uasset'
+[2019.11.19-01.36.44:997][536]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/Bebas-RegularB47E9744436BFA3060E844B6BD1164F2.tmp' to '../../../../Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular.uasset'
+[2019.11.19-01.36.45:008][536]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.19-01.36.45:011][536]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.19-01.36.45:013][536]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-01.36.48:005][892]AssetReimport: Importing new asset /Game/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular.
+[2019.11.19-01.36.48:005][892]AssetReimport: Importing new asset /Game/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular.
+[2019.11.19-01.38.19:719][684]AssetReimport: New page: Outstanding source content changes 11:38:19 PM
+[2019.11.19-01.38.19:720][684]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/BebasDistance.png)
+[2019.11.19-01.38.20:060][685]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/BebasDistanceF92328F04F8A51D2660C6DA4C96030B7.tmp' to '../../../../Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/BebasDistance.uasset'
+[2019.11.19-01.38.23:071][997]AssetReimport: Importing new asset /Game/EasyQuest/QuestSystem/Quest_UI/Font/BebasDistance.
+[2019.11.19-01.39.15:206][ 78]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EasyQuest/QuestSystem/Quests/Quest.Quest
+[2019.11.19-01.39.16:107][ 78]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.11.19-01.39.17:619][ 78]LogSlate: Took 0.015041 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.19-01.39.18:221][ 79]LogSlate: Took 0.004515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.19-01.39.50:575][675]LogSlate: Window 'Save Asset As' being destroyed
+[2019.11.19-01.39.51:055][675]LogSlate: Last resort fallback font was requested. Font: '', Character: '<unknown>'
+[2019.11.19-01.39.51:151][675]LogSlate: Took 0.094895 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.11.19-01.39.54:452][945]LogAssetEditorManager: Opening Asset editor for Font /Game/EasyQuest/QuestSystem/Quest_UI/Font/BeDis.BeDis
+[2019.11.19-01.40.06:616][188]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2019.11.19-01.40.27:311][188]LogDesktopPlatform: Warning: Error reading results of font dialog.
+[2019.11.19-01.40.43:496][994]LogAssetEditorManager: Opening Asset editor for Font /Game/EasyQuest/QuestSystem/Quest_UI/Font/BeDis.BeDis
+[2019.11.19-01.41.18:447][846]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2019.11.19-01.41.35:299][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.11.19-01.41.36:558][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.41.54:344][476]LogAssetEditorManager: Opening Asset editor for Font /Game/EasyQuest/QuestSystem/Quest_UI/Font/ZackFont.ZackFont
+[2019.11.19-01.42.14:344][683]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2019.11.19-01.42.27:417][683]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2019.11.19-01.42.27:465][683]LogTTFontImport: OutPutGlyph X=1 Y=1 FontHeight=12 FontWidth=0 Char=0000 U=1 V=2 =Usize=0 VSIze=12
+[2019.11.19-01.42.27:482][683]LogTTFontImport: OutPutGlyph X=10 Y=1 FontHeight=12 FontWidth=5 Char=0002 U=10 V=2 =Usize=5 VSIze=12
+[2019.11.19-01.42.27:483][683]LogTTFontImport: OutPutGlyph X=96 Y=1 FontHeight=12 FontWidth=0 Char=000d U=96 V=2 =Usize=0 VSIze=12
+[2019.11.19-01.42.27:484][683]LogTTFontImport: OutPutGlyph X=241 Y=1 FontHeight=12 FontWidth=2 Char=0020 U=241 V=2 =Usize=2 VSIze=12
+[2019.11.19-01.42.27:488][683]LogTTFontImport: OutPutGlyph X=37 Y=33 FontHeight=12 FontWidth=3 Char=007f U=37 V=34 =Usize=3 VSIze=12
+[2019.11.19-01.42.27:490][683]LogTTFontImport: OutPutGlyph X=49 Y=46 FontHeight=12 FontWidth=2 Char=00a0 U=49 V=47 =Usize=2 VSIze=12
+[2019.11.19-01.42.27:498][683]LogTexture: Display: Building textures: ZackFont_PageA (AutoDXT, 256X128)
+[2019.11.19-01.42.27:501][683]LogTTFontImport: ImportTrueTypeFont: Total Time 0.04
+[2019.11.19-01.42.35:531][415]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2019.11.19-01.42.35:536][415]LogFactory: FactoryCreateNew: Font with FontFactory (1 0 )
+[2019.11.19-01.42.41:733][994]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2019.11.19-01.44.25:012][773]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\s171842\Documents\GitHub\EasyQuest\RPGGame 4.23\Content\EasyQuest\QuestSystem\Quest_UI\Font\Inkfree.ttf)
+[2019.11.19-01.44.26:276][773]LogSlate: Window 'Font Face Import Options' being destroyed
+[2019.11.19-01.44.26:371][773]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2019.11.19-01.44.26:411][774]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.19-01.44.26:412][774]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-01.44.26:415][774]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.19-01.44.26:419][774]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.19-01.44.26:424][774]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-01.44.33:459][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.11.19-01.44.34:867][606]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-01.44.34:917][606]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/EasyQuest/QuestSystem/Quest_UI/Font/ZackFont.ZackFont
+[2019.11.19-01.44.36:914][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.11.19-01.44.44:384][489]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.19-01.44.46:223][681]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.19-01.44.47:259][771]LogRenderer: Reallocating scene render targets to support 1460x712 Format 10 NumSamples 1 (Frame:1).
+[2019.11.19-01.44.52:624][251]LogAssetEditorManager: Opening Asset editor for Font /Game/EasyQuest/QuestSystem/Quest_UI/Font/BeDis.BeDis
+[2019.11.19-01.44.55:229][539]LogSlate: Window 'BeDis' being destroyed
+[2019.11.19-01.44.55:233][539]LogSlate: Window 'BeDis' being destroyed
+[2019.11.19-01.44.55:268][539]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-01.45.01:307][243]LogAssetEditorManager: Opening Asset editor for Font /Game/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree_Font.Inkfree_Font
+[2019.11.19-01.45.15:527][915]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/Inkfree_Font_DIsA77652214FBC26BB0C183795EF9169D4.tmp' to '../../../../Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree_Font_DIs.uasset'
+[2019.11.19-01.45.15:826][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.11.19-01.45.16:407][977]LogAssetEditorManager: Opening Asset editor for Font /Game/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree_Font_DIs.Inkfree_Font_Dis
+[2019.11.19-01.45.21:392][409]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2019.11.19-01.45.27:409][409]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2019.11.19-01.45.27:417][409]LogTTFontImport: OutPutGlyph X=1 Y=1 FontHeight=11 FontWidth=0 Char=0000 U=1 V=2 =Usize=0 VSIze=11
+[2019.11.19-01.45.27:418][409]LogTTFontImport: OutPutGlyph X=98 Y=1 FontHeight=11 FontWidth=3 Char=000d U=98 V=2 =Usize=3 VSIze=11
+[2019.11.19-01.45.27:420][409]LogTTFontImport: OutPutGlyph X=246 Y=1 FontHeight=11 FontWidth=3 Char=0020 U=246 V=2 =Usize=3 VSIze=11
+[2019.11.19-01.45.27:425][409]LogTTFontImport: OutPutGlyph X=127 Y=34 FontHeight=11 FontWidth=0 Char=007f U=127 V=35 =Usize=0 VSIze=11
+[2019.11.19-01.45.27:429][409]LogTTFontImport: OutPutGlyph X=137 Y=46 FontHeight=11 FontWidth=3 Char=00a0 U=137 V=47 =Usize=3 VSIze=11
+[2019.11.19-01.45.27:437][409]LogTexture: Display: Building textures: Inkfree_Font_Dis_PageA (AutoDXT, 256X128)
+[2019.11.19-01.45.27:441][409]LogTTFontImport: ImportTrueTypeFont: Total Time 0.03
+[2019.11.19-01.45.30:112][674]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/Inkfree_Font_DIs31E8D280480AC39236FD8BA0813B5D15.tmp' to '../../../../Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree_Font_DIs.uasset'
+[2019.11.19-01.45.48:413][567]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EasyQuest/QuestSystem/Quests/Quest.Quest
+[2019.11.19-01.46.12:180][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.46.37:010][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.11.19-01.46.37:470][617]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/MapAlpha_Auto1B7BB00484B7BE7A04B6040AA154A122E.tmp' to '../../../../Final year/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha_Auto1.umap'
+[2019.11.19-01.46.37:477][617]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha' took 0.722
+[2019.11.19-01.46.37:477][617]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.722
+[2019.11.19-01.46.37:479][617]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EasyQuest/QuestSystem/Quests/Quest] ([1] browsable assets)...
+[2019.11.19-01.46.37:479][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/EasyQuest/QuestSystem/Quests/Quest]
+[2019.11.19-01.46.37:882][617]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/Quest_Auto124870A294EB91F2EAA4073A4237CF3DC.tmp' to '../../../../Final year/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/QuestSystem/Quests/Quest_Auto1.uasset'
+[2019.11.19-01.46.37:897][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular_Font] ([1] browsable assets)...
+[2019.11.19-01.46.37:900][617]OBJ SavePackage:     Rendered thumbnail for [Font /Game/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular_Font.Bebas-Regular_Font]
+[2019.11.19-01.46.37:900][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular_Font]
+[2019.11.19-01.46.38:047][617]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/Bebas-Regular_Font_Auto1045D53934991CCB3BEC641B986C36890.tmp' to '../../../../Final year/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular_Font_Auto1.uasset'
+[2019.11.19-01.46.38:049][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular_Font1] ([1] browsable assets)...
+[2019.11.19-01.46.38:052][617]OBJ SavePackage:     Rendered thumbnail for [Font /Game/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular_Font1.Bebas-Regular_Font1]
+[2019.11.19-01.46.38:052][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular_Font1]
+[2019.11.19-01.46.38:100][617]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/Bebas-Regular_Font1_Auto12F951C014CC763C75540588374D743AE.tmp' to '../../../../Final year/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/QuestSystem/Quest_UI/Font/Bebas-Regular_Font1_Auto1.uasset'
+[2019.11.19-01.46.38:101][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EasyQuest/QuestSystem/Quest_UI/Font/BeDis] ([1] browsable assets)...
+[2019.11.19-01.46.38:104][617]OBJ SavePackage:     Rendered thumbnail for [Font /Game/EasyQuest/QuestSystem/Quest_UI/Font/BeDis.BeDis]
+[2019.11.19-01.46.38:104][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/EasyQuest/QuestSystem/Quest_UI/Font/BeDis]
+[2019.11.19-01.46.38:179][617]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/BeDis_Auto1C39EE3214F847B7166B7EC89E42762F9.tmp' to '../../../../Final year/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/QuestSystem/Quest_UI/Font/BeDis_Auto1.uasset'
+[2019.11.19-01.46.38:180][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree_Font] ([1] browsable assets)...
+[2019.11.19-01.46.38:183][617]OBJ SavePackage:     Rendered thumbnail for [Font /Game/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree_Font.Inkfree_Font]
+[2019.11.19-01.46.38:183][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree_Font]
+[2019.11.19-01.46.38:229][617]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/Inkfree_Font_Auto14BE57F9148316790FF2979ACB4865E7E.tmp' to '../../../../Final year/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree_Font_Auto1.uasset'
+[2019.11.19-01.46.38:230][617]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree] ([1] browsable assets)...
+[2019.11.19-01.46.38:230][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree]
+[2019.11.19-01.46.38:320][617]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/Inkfree_Auto11D47601F4DC5A3539B76E78BD44B57C1.tmp' to '../../../../Final year/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree_Auto1.uasset'
+[2019.11.19-01.46.38:321][617]LogFileHelpers: Auto-saving content packages took 0.842
+[2019.11.19-01.47.25:739][ 14]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2019.11.19-01.47.25:744][ 14]LogFactory: FactoryCreateNew: Font with FontFactory (1 0 )
+[2019.11.19-01.47.29:250][261]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2019.11.19-01.47.40:483][261]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2019.11.19-01.47.40:492][261]LogTTFontImport: OutPutGlyph X=1 Y=1 FontHeight=33 FontWidth=0 Char=0000 U=1 V=2 =Usize=0 VSIze=33
+[2019.11.19-01.47.40:493][261]LogTTFontImport: OutPutGlyph X=230 Y=1 FontHeight=33 FontWidth=8 Char=000d U=230 V=2 =Usize=8 VSIze=33
+[2019.11.19-01.47.40:494][261]LogTTFontImport: OutPutGlyph X=96 Y=54 FontHeight=33 FontWidth=8 Char=0020 U=96 V=55 =Usize=8 VSIze=33
+[2019.11.19-01.47.40:500][261]LogTTFontImport: OutPutGlyph X=62 Y=215 FontHeight=33 FontWidth=0 Char=007f U=62 V=216 =Usize=0 VSIze=33
+[2019.11.19-01.47.40:504][261]LogTTFontImport: Warning: A texture named Inkfree_Font_Dis_PageA already exists!
+[2019.11.19-01.47.40:506][261]LogTexture: Display: Building textures: Inkfree_Font_Dis_PageA (AutoDXT, 256X256)
+[2019.11.19-01.47.40:513][261]LogTTFontImport: OutPutGlyph X=172 Y=20 FontHeight=33 FontWidth=8 Char=00a0 U=172 V=21 =Usize=8 VSIze=33
+[2019.11.19-01.47.40:524][261]LogTexture: Display: Building textures: Inkfree_Font_Dis_PageB (AutoDXT, 256X256)
+[2019.11.19-01.47.40:528][261]LogTTFontImport: ImportTrueTypeFont: Total Time 0.04
+[2019.11.19-01.47.50:517][382]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2019.11.19-01.47.50:527][382]LogTTFontImport: OutPutGlyph X=64 Y=64 FontHeight=32 FontWidth=0 Char=0000 U=4 V=5 =Usize=0 VSIze=32
+[2019.11.19-01.47.50:533][382]LogTTFontImport: OutPutGlyph X=128 Y=64 FontHeight=32 FontWidth=20 Char=0001 U=8 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:538][382]LogTTFontImport: OutPutGlyph X=512 Y=64 FontHeight=32 FontWidth=20 Char=0002 U=32 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:539][382]LogTTFontImport: OutPutGlyph X=896 Y=64 FontHeight=32 FontWidth=20 Char=0003 U=56 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:540][382]LogTTFontImport: OutPutGlyph X=1280 Y=64 FontHeight=32 FontWidth=20 Char=0004 U=80 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:541][382]LogTTFontImport: OutPutGlyph X=1664 Y=64 FontHeight=32 FontWidth=20 Char=0005 U=104 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:541][382]LogTTFontImport: OutPutGlyph X=2048 Y=64 FontHeight=32 FontWidth=20 Char=0006 U=128 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:542][382]LogTTFontImport: OutPutGlyph X=2432 Y=64 FontHeight=32 FontWidth=20 Char=0007 U=152 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:543][382]LogTTFontImport: OutPutGlyph X=2816 Y=64 FontHeight=32 FontWidth=20 Char=0008 U=176 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:544][382]LogTTFontImport: OutPutGlyph X=3200 Y=64 FontHeight=32 FontWidth=20 Char=0009 U=200 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:544][382]LogTTFontImport: OutPutGlyph X=3584 Y=64 FontHeight=32 FontWidth=20 Char=000a U=224 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:545][382]LogTTFontImport: OutPutGlyph X=64 Y=640 FontHeight=32 FontWidth=20 Char=000b U=4 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:545][382]LogTTFontImport: OutPutGlyph X=448 Y=640 FontHeight=32 FontWidth=20 Char=000c U=28 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:546][382]LogTTFontImport: OutPutGlyph X=832 Y=640 FontHeight=32 FontWidth=8 Char=000d U=52 V=41 =Usize=8 VSIze=32
+[2019.11.19-01.47.50:547][382]LogTTFontImport: OutPutGlyph X=1024 Y=640 FontHeight=32 FontWidth=20 Char=000e U=64 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:548][382]LogTTFontImport: OutPutGlyph X=1408 Y=640 FontHeight=32 FontWidth=20 Char=000f U=88 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:549][382]LogTTFontImport: OutPutGlyph X=1792 Y=640 FontHeight=32 FontWidth=20 Char=0010 U=112 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:550][382]LogTTFontImport: OutPutGlyph X=2176 Y=640 FontHeight=32 FontWidth=20 Char=0011 U=136 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:551][382]LogTTFontImport: OutPutGlyph X=2560 Y=640 FontHeight=32 FontWidth=20 Char=0012 U=160 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:552][382]LogTTFontImport: OutPutGlyph X=2944 Y=640 FontHeight=32 FontWidth=20 Char=0013 U=184 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:553][382]LogTTFontImport: OutPutGlyph X=3328 Y=640 FontHeight=32 FontWidth=20 Char=0014 U=208 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:553][382]LogTTFontImport: OutPutGlyph X=3712 Y=640 FontHeight=32 FontWidth=20 Char=0015 U=232 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:554][382]LogTTFontImport: OutPutGlyph X=64 Y=1216 FontHeight=32 FontWidth=20 Char=0016 U=4 V=77 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:555][382]LogTTFontImport: OutPutGlyph X=448 Y=1216 FontHeight=32 FontWidth=20 Char=0017 U=28 V=77 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:556][382]LogTTFontImport: OutPutGlyph X=832 Y=1216 FontHeight=32 FontWidth=20 Char=0018 U=52 V=77 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:557][382]LogTTFontImport: OutPutGlyph X=1216 Y=1216 FontHeight=32 FontWidth=20 Char=0019 U=76 V=77 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:558][382]LogTTFontImport: OutPutGlyph X=1600 Y=1216 FontHeight=32 FontWidth=20 Char=001a U=100 V=77 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:558][382]LogTTFontImport: OutPutGlyph X=1984 Y=1216 FontHeight=32 FontWidth=20 Char=001b U=124 V=77 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:558][382]LogTTFontImport: OutPutGlyph X=2368 Y=1216 FontHeight=32 FontWidth=20 Char=001c U=148 V=77 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=2752 Y=1216 FontHeight=32 FontWidth=20 Char=001d U=172 V=77 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=3136 Y=1216 FontHeight=32 FontWidth=20 Char=001e U=196 V=77 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=3520 Y=1216 FontHeight=32 FontWidth=20 Char=001f U=220 V=77 =Usize=20 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=3904 Y=1216 FontHeight=32 FontWidth=8 Char=0020 U=244 V=77 =Usize=8 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=64 Y=1792 FontHeight=32 FontWidth=5 Char=0021 U=4 V=113 =Usize=5 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=208 Y=1792 FontHeight=32 FontWidth=9 Char=0022 U=13 V=113 =Usize=9 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=416 Y=1792 FontHeight=32 FontWidth=16 Char=0023 U=26 V=113 =Usize=16 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=736 Y=1792 FontHeight=32 FontWidth=14 Char=0024 U=46 V=113 =Usize=14 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=1024 Y=1792 FontHeight=32 FontWidth=26 Char=0025 U=64 V=113 =Usize=26 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=1504 Y=1792 FontHeight=32 FontWidth=17 Char=0026 U=94 V=113 =Usize=17 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=1840 Y=1792 FontHeight=32 FontWidth=6 Char=0027 U=115 V=113 =Usize=6 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=2000 Y=1792 FontHeight=32 FontWidth=11 Char=0028 U=125 V=113 =Usize=11 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=2240 Y=1792 FontHeight=32 FontWidth=11 Char=0029 U=140 V=113 =Usize=11 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=2480 Y=1792 FontHeight=32 FontWidth=9 Char=002a U=155 V=113 =Usize=9 VSIze=32
+[2019.11.19-01.47.50:559][382]LogTTFontImport: OutPutGlyph X=2688 Y=1792 FontHeight=32 FontWidth=12 Char=002b U=168 V=113 =Usize=12 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=2944 Y=1792 FontHeight=32 FontWidth=6 Char=002c U=184 V=113 =Usize=6 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=3104 Y=1792 FontHeight=32 FontWidth=9 Char=002d U=194 V=113 =Usize=9 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=3312 Y=1792 FontHeight=32 FontWidth=6 Char=002e U=207 V=113 =Usize=6 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=3472 Y=1792 FontHeight=32 FontWidth=10 Char=002f U=217 V=113 =Usize=10 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=3696 Y=1792 FontHeight=32 FontWidth=15 Char=0030 U=231 V=113 =Usize=15 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=64 Y=2368 FontHeight=32 FontWidth=12 Char=0031 U=4 V=149 =Usize=12 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=320 Y=2368 FontHeight=32 FontWidth=18 Char=0032 U=20 V=149 =Usize=18 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=672 Y=2368 FontHeight=32 FontWidth=18 Char=0033 U=42 V=149 =Usize=18 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=1024 Y=2368 FontHeight=32 FontWidth=18 Char=0034 U=64 V=149 =Usize=18 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=1376 Y=2368 FontHeight=32 FontWidth=14 Char=0035 U=86 V=149 =Usize=14 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=1664 Y=2368 FontHeight=32 FontWidth=15 Char=0036 U=104 V=149 =Usize=15 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=1968 Y=2368 FontHeight=32 FontWidth=15 Char=0037 U=123 V=149 =Usize=15 VSIze=32
+[2019.11.19-01.47.50:568][382]LogTTFontImport: OutPutGlyph X=2272 Y=2368 FontHeight=32 FontWidth=18 Char=0038 U=142 V=149 =Usize=18 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=2624 Y=2368 FontHeight=32 FontWidth=16 Char=0039 U=164 V=149 =Usize=16 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=2944 Y=2368 FontHeight=32 FontWidth=6 Char=003a U=184 V=149 =Usize=6 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=3104 Y=2368 FontHeight=32 FontWidth=6 Char=003b U=194 V=149 =Usize=6 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=3264 Y=2368 FontHeight=32 FontWidth=13 Char=003c U=204 V=149 =Usize=13 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=3536 Y=2368 FontHeight=32 FontWidth=13 Char=003d U=221 V=149 =Usize=13 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=3808 Y=2368 FontHeight=32 FontWidth=13 Char=003e U=238 V=149 =Usize=13 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=64 Y=2944 FontHeight=32 FontWidth=13 Char=003f U=4 V=185 =Usize=13 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=336 Y=2944 FontHeight=32 FontWidth=26 Char=0040 U=21 V=185 =Usize=26 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=816 Y=2944 FontHeight=32 FontWidth=16 Char=0041 U=51 V=185 =Usize=16 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=1136 Y=2944 FontHeight=32 FontWidth=18 Char=0042 U=71 V=185 =Usize=18 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=1488 Y=2944 FontHeight=32 FontWidth=14 Char=0043 U=93 V=185 =Usize=14 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=1776 Y=2944 FontHeight=32 FontWidth=17 Char=0044 U=111 V=185 =Usize=17 VSIze=32
+[2019.11.19-01.47.50:581][382]LogTTFontImport: OutPutGlyph X=2112 Y=2944 FontHeight=32 FontWidth=15 Char=0045 U=132 V=185 =Usize=15 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=2416 Y=2944 FontHeight=32 FontWidth=15 Char=0046 U=151 V=185 =Usize=15 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=2720 Y=2944 FontHeight=32 FontWidth=19 Char=0047 U=170 V=185 =Usize=19 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=3088 Y=2944 FontHeight=32 FontWidth=18 Char=0048 U=193 V=185 =Usize=18 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=3440 Y=2944 FontHeight=32 FontWidth=17 Char=0049 U=215 V=185 =Usize=17 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=3776 Y=2944 FontHeight=32 FontWidth=15 Char=004a U=236 V=185 =Usize=15 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=64 Y=3520 FontHeight=32 FontWidth=15 Char=004b U=4 V=221 =Usize=15 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=368 Y=3520 FontHeight=32 FontWidth=15 Char=004c U=23 V=221 =Usize=15 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=672 Y=3520 FontHeight=32 FontWidth=21 Char=004d U=42 V=221 =Usize=21 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=1072 Y=3520 FontHeight=32 FontWidth=18 Char=004e U=67 V=221 =Usize=18 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=1424 Y=3520 FontHeight=32 FontWidth=19 Char=004f U=89 V=221 =Usize=19 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=1792 Y=3520 FontHeight=32 FontWidth=15 Char=0050 U=112 V=221 =Usize=15 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=2096 Y=3520 FontHeight=32 FontWidth=18 Char=0051 U=131 V=221 =Usize=18 VSIze=32
+[2019.11.19-01.47.50:592][382]LogTTFontImport: OutPutGlyph X=2448 Y=3520 FontHeight=32 FontWidth=16 Char=0052 U=153 V=221 =Usize=16 VSIze=32
+[2019.11.19-01.47.50:606][382]LogTTFontImport: OutPutGlyph X=2768 Y=3520 FontHeight=32 FontWidth=14 Char=0053 U=173 V=221 =Usize=14 VSIze=32
+[2019.11.19-01.47.50:607][382]LogTTFontImport: OutPutGlyph X=3056 Y=3520 FontHeight=32 FontWidth=18 Char=0054 U=191 V=221 =Usize=18 VSIze=32
+[2019.11.19-01.47.50:607][382]LogTTFontImport: OutPutGlyph X=3408 Y=3520 FontHeight=32 FontWidth=17 Char=0055 U=213 V=221 =Usize=17 VSIze=32
+[2019.11.19-01.47.50:607][382]LogTTFontImport: OutPutGlyph X=3744 Y=3520 FontHeight=32 FontWidth=14 Char=0056 U=234 V=221 =Usize=14 VSIze=32
+[2019.11.19-01.47.50:607][382]LogTTFontImport: Warning: A texture named Inkfree_Font_Dis_PageA already exists!
+[2019.11.19-01.47.52:168][382]LogTexture: Display: Building textures: Inkfree_Font_Dis_PageA (G8, 256X256)
+[2019.11.19-01.47.52:176][382]LogTTFontImport: OutPutGlyph X=64 Y=64 FontHeight=32 FontWidth=19 Char=0057 U=4 V=5 =Usize=19 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=432 Y=64 FontHeight=32 FontWidth=10 Char=0058 U=27 V=5 =Usize=10 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=656 Y=64 FontHeight=32 FontWidth=13 Char=0059 U=41 V=5 =Usize=13 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=928 Y=64 FontHeight=32 FontWidth=16 Char=005a U=58 V=5 =Usize=16 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=1248 Y=64 FontHeight=32 FontWidth=11 Char=005b U=78 V=5 =Usize=11 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=1488 Y=64 FontHeight=32 FontWidth=10 Char=005c U=93 V=5 =Usize=10 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=1712 Y=64 FontHeight=32 FontWidth=11 Char=005d U=107 V=5 =Usize=11 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=1952 Y=64 FontHeight=32 FontWidth=13 Char=005e U=122 V=5 =Usize=13 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=2224 Y=64 FontHeight=32 FontWidth=12 Char=005f U=139 V=5 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=2480 Y=64 FontHeight=32 FontWidth=12 Char=0060 U=155 V=5 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=2736 Y=64 FontHeight=32 FontWidth=14 Char=0061 U=171 V=5 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:177][382]LogTTFontImport: OutPutGlyph X=3024 Y=64 FontHeight=32 FontWidth=13 Char=0062 U=189 V=5 =Usize=13 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=3296 Y=64 FontHeight=32 FontWidth=10 Char=0063 U=206 V=5 =Usize=10 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=3520 Y=64 FontHeight=32 FontWidth=12 Char=0064 U=220 V=5 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=3776 Y=64 FontHeight=32 FontWidth=12 Char=0065 U=236 V=5 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=64 Y=640 FontHeight=32 FontWidth=11 Char=0066 U=4 V=41 =Usize=11 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=304 Y=640 FontHeight=32 FontWidth=14 Char=0067 U=19 V=41 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=592 Y=640 FontHeight=32 FontWidth=15 Char=0068 U=37 V=41 =Usize=15 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=896 Y=640 FontHeight=32 FontWidth=6 Char=0069 U=56 V=41 =Usize=6 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=1056 Y=640 FontHeight=32 FontWidth=6 Char=006a U=66 V=41 =Usize=6 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=1216 Y=640 FontHeight=32 FontWidth=13 Char=006b U=76 V=41 =Usize=13 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=1488 Y=640 FontHeight=32 FontWidth=5 Char=006c U=93 V=41 =Usize=5 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=1632 Y=640 FontHeight=32 FontWidth=20 Char=006d U=102 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=2016 Y=640 FontHeight=32 FontWidth=12 Char=006e U=126 V=41 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:188][382]LogTTFontImport: OutPutGlyph X=2272 Y=640 FontHeight=32 FontWidth=11 Char=006f U=142 V=41 =Usize=11 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=2512 Y=640 FontHeight=32 FontWidth=14 Char=0070 U=157 V=41 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=2800 Y=640 FontHeight=32 FontWidth=12 Char=0071 U=175 V=41 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=3056 Y=640 FontHeight=32 FontWidth=11 Char=0072 U=191 V=41 =Usize=11 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=3296 Y=640 FontHeight=32 FontWidth=12 Char=0073 U=206 V=41 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=3552 Y=640 FontHeight=32 FontWidth=13 Char=0074 U=222 V=41 =Usize=13 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=3824 Y=640 FontHeight=32 FontWidth=13 Char=0075 U=239 V=41 =Usize=13 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=64 Y=1216 FontHeight=32 FontWidth=14 Char=0076 U=4 V=77 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=352 Y=1216 FontHeight=32 FontWidth=19 Char=0077 U=22 V=77 =Usize=19 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=720 Y=1216 FontHeight=32 FontWidth=10 Char=0078 U=45 V=77 =Usize=10 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=944 Y=1216 FontHeight=32 FontWidth=11 Char=0079 U=59 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=1184 Y=1216 FontHeight=32 FontWidth=14 Char=007a U=74 V=77 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=1472 Y=1216 FontHeight=32 FontWidth=11 Char=007b U=92 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.52:198][382]LogTTFontImport: OutPutGlyph X=1712 Y=1216 FontHeight=32 FontWidth=10 Char=007c U=107 V=77 =Usize=10 VSIze=32
+[2019.11.19-01.47.52:207][382]LogTTFontImport: OutPutGlyph X=1936 Y=1216 FontHeight=32 FontWidth=11 Char=007d U=121 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.52:207][382]LogTTFontImport: OutPutGlyph X=2176 Y=1216 FontHeight=32 FontWidth=15 Char=007e U=136 V=77 =Usize=15 VSIze=32
+[2019.11.19-01.47.52:208][382]LogTTFontImport: OutPutGlyph X=2480 Y=1216 FontHeight=32 FontWidth=0 Char=007f U=155 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:208][382]LogTTFontImport: OutPutGlyph X=2544 Y=1216 FontHeight=32 FontWidth=0 Char=0080 U=159 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:208][382]LogTTFontImport: OutPutGlyph X=2608 Y=1216 FontHeight=32 FontWidth=0 Char=0081 U=163 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:209][382]LogTTFontImport: OutPutGlyph X=2672 Y=1216 FontHeight=32 FontWidth=0 Char=0082 U=167 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:209][382]LogTTFontImport: OutPutGlyph X=2736 Y=1216 FontHeight=32 FontWidth=0 Char=0083 U=171 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:209][382]LogTTFontImport: OutPutGlyph X=2800 Y=1216 FontHeight=32 FontWidth=0 Char=0084 U=175 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:209][382]LogTTFontImport: OutPutGlyph X=2864 Y=1216 FontHeight=32 FontWidth=0 Char=0085 U=179 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:209][382]LogTTFontImport: OutPutGlyph X=2928 Y=1216 FontHeight=32 FontWidth=0 Char=0086 U=183 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:210][382]LogTTFontImport: OutPutGlyph X=2992 Y=1216 FontHeight=32 FontWidth=0 Char=0087 U=187 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:210][382]LogTTFontImport: OutPutGlyph X=3056 Y=1216 FontHeight=32 FontWidth=0 Char=0088 U=191 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:210][382]LogTTFontImport: OutPutGlyph X=3120 Y=1216 FontHeight=32 FontWidth=0 Char=0089 U=195 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:210][382]LogTTFontImport: OutPutGlyph X=3184 Y=1216 FontHeight=32 FontWidth=0 Char=008a U=199 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:210][382]LogTTFontImport: OutPutGlyph X=3248 Y=1216 FontHeight=32 FontWidth=0 Char=008b U=203 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:211][382]LogTTFontImport: OutPutGlyph X=3312 Y=1216 FontHeight=32 FontWidth=0 Char=008c U=207 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:211][382]LogTTFontImport: OutPutGlyph X=3376 Y=1216 FontHeight=32 FontWidth=0 Char=008d U=211 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:211][382]LogTTFontImport: OutPutGlyph X=3440 Y=1216 FontHeight=32 FontWidth=0 Char=008e U=215 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:211][382]LogTTFontImport: OutPutGlyph X=3504 Y=1216 FontHeight=32 FontWidth=0 Char=008f U=219 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:211][382]LogTTFontImport: OutPutGlyph X=3568 Y=1216 FontHeight=32 FontWidth=0 Char=0090 U=223 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:211][382]LogTTFontImport: OutPutGlyph X=3632 Y=1216 FontHeight=32 FontWidth=0 Char=0091 U=227 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:212][382]LogTTFontImport: OutPutGlyph X=3696 Y=1216 FontHeight=32 FontWidth=0 Char=0092 U=231 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:212][382]LogTTFontImport: OutPutGlyph X=3760 Y=1216 FontHeight=32 FontWidth=0 Char=0093 U=235 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:212][382]LogTTFontImport: OutPutGlyph X=3824 Y=1216 FontHeight=32 FontWidth=0 Char=0094 U=239 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:212][382]LogTTFontImport: OutPutGlyph X=3888 Y=1216 FontHeight=32 FontWidth=0 Char=0095 U=243 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:212][382]LogTTFontImport: OutPutGlyph X=3952 Y=1216 FontHeight=32 FontWidth=0 Char=0096 U=247 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:212][382]LogTTFontImport: OutPutGlyph X=4016 Y=1216 FontHeight=32 FontWidth=0 Char=0097 U=251 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:212][382]LogTTFontImport: OutPutGlyph X=4080 Y=1216 FontHeight=32 FontWidth=0 Char=0098 U=255 V=77 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:213][382]LogTTFontImport: OutPutGlyph X=64 Y=1792 FontHeight=32 FontWidth=0 Char=0099 U=4 V=113 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:213][382]LogTTFontImport: OutPutGlyph X=128 Y=1792 FontHeight=32 FontWidth=0 Char=009a U=8 V=113 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:213][382]LogTTFontImport: OutPutGlyph X=192 Y=1792 FontHeight=32 FontWidth=0 Char=009b U=12 V=113 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:213][382]LogTTFontImport: OutPutGlyph X=256 Y=1792 FontHeight=32 FontWidth=0 Char=009c U=16 V=113 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:213][382]LogTTFontImport: OutPutGlyph X=320 Y=1792 FontHeight=32 FontWidth=0 Char=009d U=20 V=113 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:213][382]LogTTFontImport: OutPutGlyph X=384 Y=1792 FontHeight=32 FontWidth=0 Char=009e U=24 V=113 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:214][382]LogTTFontImport: OutPutGlyph X=448 Y=1792 FontHeight=32 FontWidth=0 Char=009f U=28 V=113 =Usize=0 VSIze=32
+[2019.11.19-01.47.52:214][382]LogTTFontImport: OutPutGlyph X=512 Y=1792 FontHeight=32 FontWidth=8 Char=00a0 U=32 V=113 =Usize=8 VSIze=32
+[2019.11.19-01.47.52:214][382]LogTTFontImport: OutPutGlyph X=704 Y=1792 FontHeight=32 FontWidth=5 Char=00a1 U=44 V=113 =Usize=5 VSIze=32
+[2019.11.19-01.47.52:214][382]LogTTFontImport: OutPutGlyph X=848 Y=1792 FontHeight=32 FontWidth=10 Char=00a2 U=53 V=113 =Usize=10 VSIze=32
+[2019.11.19-01.47.52:215][382]LogTTFontImport: OutPutGlyph X=1072 Y=1792 FontHeight=32 FontWidth=15 Char=00a3 U=67 V=113 =Usize=15 VSIze=32
+[2019.11.19-01.47.52:216][382]LogTTFontImport: OutPutGlyph X=1376 Y=1792 FontHeight=32 FontWidth=14 Char=00a4 U=86 V=113 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:216][382]LogTTFontImport: OutPutGlyph X=1664 Y=1792 FontHeight=32 FontWidth=14 Char=00a5 U=104 V=113 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:217][382]LogTTFontImport: OutPutGlyph X=1952 Y=1792 FontHeight=32 FontWidth=10 Char=00a6 U=122 V=113 =Usize=10 VSIze=32
+[2019.11.19-01.47.52:218][382]LogTTFontImport: OutPutGlyph X=2176 Y=1792 FontHeight=32 FontWidth=12 Char=00a7 U=136 V=113 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:219][382]LogTTFontImport: OutPutGlyph X=2432 Y=1792 FontHeight=32 FontWidth=12 Char=00a8 U=152 V=113 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:219][382]LogTTFontImport: OutPutGlyph X=2688 Y=1792 FontHeight=32 FontWidth=24 Char=00a9 U=168 V=113 =Usize=24 VSIze=32
+[2019.11.19-01.47.52:220][382]LogTTFontImport: OutPutGlyph X=3136 Y=1792 FontHeight=32 FontWidth=10 Char=00aa U=196 V=113 =Usize=10 VSIze=32
+[2019.11.19-01.47.52:221][382]LogTTFontImport: OutPutGlyph X=3360 Y=1792 FontHeight=32 FontWidth=14 Char=00ab U=210 V=113 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:221][382]LogTTFontImport: OutPutGlyph X=3648 Y=1792 FontHeight=32 FontWidth=12 Char=00ac U=228 V=113 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:222][382]LogTTFontImport: OutPutGlyph X=3904 Y=1792 FontHeight=32 FontWidth=9 Char=00ad U=244 V=113 =Usize=9 VSIze=32
+[2019.11.19-01.47.52:222][382]LogTTFontImport: OutPutGlyph X=64 Y=2368 FontHeight=32 FontWidth=24 Char=00ae U=4 V=149 =Usize=24 VSIze=32
+[2019.11.19-01.47.52:224][382]LogTTFontImport: OutPutGlyph X=512 Y=2368 FontHeight=32 FontWidth=12 Char=00af U=32 V=149 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:224][382]LogTTFontImport: OutPutGlyph X=768 Y=2368 FontHeight=32 FontWidth=11 Char=00b0 U=48 V=149 =Usize=11 VSIze=32
+[2019.11.19-01.47.52:224][382]LogTTFontImport: OutPutGlyph X=1008 Y=2368 FontHeight=32 FontWidth=12 Char=00b1 U=63 V=149 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:225][382]LogTTFontImport: OutPutGlyph X=1264 Y=2368 FontHeight=32 FontWidth=12 Char=00b2 U=79 V=149 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:225][382]LogTTFontImport: OutPutGlyph X=1520 Y=2368 FontHeight=32 FontWidth=11 Char=00b3 U=95 V=149 =Usize=11 VSIze=32
+[2019.11.19-01.47.52:226][382]LogTTFontImport: OutPutGlyph X=1760 Y=2368 FontHeight=32 FontWidth=12 Char=00b4 U=110 V=149 =Usize=12 VSIze=32
+[2019.11.19-01.47.52:226][382]LogTTFontImport: OutPutGlyph X=2016 Y=2368 FontHeight=32 FontWidth=14 Char=00b5 U=126 V=149 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:227][382]LogTTFontImport: OutPutGlyph X=2304 Y=2368 FontHeight=32 FontWidth=18 Char=00b6 U=144 V=149 =Usize=18 VSIze=32
+[2019.11.19-01.47.52:228][382]LogTTFontImport: OutPutGlyph X=2656 Y=2368 FontHeight=32 FontWidth=6 Char=00b7 U=166 V=149 =Usize=6 VSIze=32
+[2019.11.19-01.47.52:228][382]LogTTFontImport: OutPutGlyph X=2816 Y=2368 FontHeight=32 FontWidth=13 Char=00b8 U=176 V=149 =Usize=13 VSIze=32
+[2019.11.19-01.47.52:229][382]LogTTFontImport: OutPutGlyph X=3088 Y=2368 FontHeight=32 FontWidth=8 Char=00b9 U=193 V=149 =Usize=8 VSIze=32
+[2019.11.19-01.47.52:229][382]LogTTFontImport: OutPutGlyph X=3280 Y=2368 FontHeight=32 FontWidth=8 Char=00ba U=205 V=149 =Usize=8 VSIze=32
+[2019.11.19-01.47.52:229][382]LogTTFontImport: OutPutGlyph X=3472 Y=2368 FontHeight=32 FontWidth=14 Char=00bb U=217 V=149 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:230][382]LogTTFontImport: OutPutGlyph X=3760 Y=2368 FontHeight=32 FontWidth=20 Char=00bc U=235 V=149 =Usize=20 VSIze=32
+[2019.11.19-01.47.52:231][382]LogTTFontImport: OutPutGlyph X=64 Y=2944 FontHeight=32 FontWidth=20 Char=00bd U=4 V=185 =Usize=20 VSIze=32
+[2019.11.19-01.47.52:232][382]LogTTFontImport: OutPutGlyph X=448 Y=2944 FontHeight=32 FontWidth=22 Char=00be U=28 V=185 =Usize=22 VSIze=32
+[2019.11.19-01.47.52:234][382]LogTTFontImport: OutPutGlyph X=864 Y=2944 FontHeight=32 FontWidth=13 Char=00bf U=54 V=185 =Usize=13 VSIze=32
+[2019.11.19-01.47.52:235][382]LogTTFontImport: OutPutGlyph X=1136 Y=2944 FontHeight=32 FontWidth=16 Char=00c0 U=71 V=185 =Usize=16 VSIze=32
+[2019.11.19-01.47.52:236][382]LogTTFontImport: OutPutGlyph X=1456 Y=2944 FontHeight=32 FontWidth=16 Char=00c1 U=91 V=185 =Usize=16 VSIze=32
+[2019.11.19-01.47.52:237][382]LogTTFontImport: OutPutGlyph X=1776 Y=2944 FontHeight=32 FontWidth=16 Char=00c2 U=111 V=185 =Usize=16 VSIze=32
+[2019.11.19-01.47.52:239][382]LogTTFontImport: OutPutGlyph X=2096 Y=2944 FontHeight=32 FontWidth=16 Char=00c3 U=131 V=185 =Usize=16 VSIze=32
+[2019.11.19-01.47.52:240][382]LogTTFontImport: OutPutGlyph X=2416 Y=2944 FontHeight=32 FontWidth=16 Char=00c4 U=151 V=185 =Usize=16 VSIze=32
+[2019.11.19-01.47.52:242][382]LogTTFontImport: OutPutGlyph X=2736 Y=2944 FontHeight=32 FontWidth=16 Char=00c5 U=171 V=185 =Usize=16 VSIze=32
+[2019.11.19-01.47.52:244][382]LogTTFontImport: OutPutGlyph X=3056 Y=2944 FontHeight=32 FontWidth=24 Char=00c6 U=191 V=185 =Usize=24 VSIze=32
+[2019.11.19-01.47.52:246][382]LogTTFontImport: OutPutGlyph X=3504 Y=2944 FontHeight=32 FontWidth=14 Char=00c7 U=219 V=185 =Usize=14 VSIze=32
+[2019.11.19-01.47.52:247][382]LogTTFontImport: OutPutGlyph X=3792 Y=2944 FontHeight=32 FontWidth=15 Char=00c8 U=237 V=185 =Usize=15 VSIze=32
+[2019.11.19-01.47.52:248][382]LogTTFontImport: OutPutGlyph X=64 Y=3520 FontHeight=32 FontWidth=15 Char=00c9 U=4 V=221 =Usize=15 VSIze=32
+[2019.11.19-01.47.52:250][382]LogTTFontImport: OutPutGlyph X=368 Y=3520 FontHeight=32 FontWidth=15 Char=00ca U=23 V=221 =Usize=15 VSIze=32
+[2019.11.19-01.47.52:251][382]LogTTFontImport: OutPutGlyph X=672 Y=3520 FontHeight=32 FontWidth=15 Char=00cb U=42 V=221 =Usize=15 VSIze=32
+[2019.11.19-01.47.52:253][382]LogTTFontImport: OutPutGlyph X=976 Y=3520 FontHeight=32 FontWidth=17 Char=00cc U=61 V=221 =Usize=17 VSIze=32
+[2019.11.19-01.47.52:254][382]LogTTFontImport: OutPutGlyph X=1312 Y=3520 FontHeight=32 FontWidth=17 Char=00cd U=82 V=221 =Usize=17 VSIze=32
+[2019.11.19-01.47.52:256][382]LogTTFontImport: OutPutGlyph X=1648 Y=3520 FontHeight=32 FontWidth=17 Char=00ce U=103 V=221 =Usize=17 VSIze=32
+[2019.11.19-01.47.52:257][382]LogTTFontImport: OutPutGlyph X=1984 Y=3520 FontHeight=32 FontWidth=17 Char=00cf U=124 V=221 =Usize=17 VSIze=32
+[2019.11.19-01.47.52:259][382]LogTTFontImport: OutPutGlyph X=2320 Y=3520 FontHeight=32 FontWidth=18 Char=00d0 U=145 V=221 =Usize=18 VSIze=32
+[2019.11.19-01.47.52:260][382]LogTTFontImport: OutPutGlyph X=2672 Y=3520 FontHeight=32 FontWidth=18 Char=00d1 U=167 V=221 =Usize=18 VSIze=32
+[2019.11.19-01.47.52:261][382]LogTTFontImport: OutPutGlyph X=3024 Y=3520 FontHeight=32 FontWidth=20 Char=00d2 U=189 V=221 =Usize=20 VSIze=32
+[2019.11.19-01.47.52:263][382]LogTTFontImport: OutPutGlyph X=3408 Y=3520 FontHeight=32 FontWidth=20 Char=00d3 U=213 V=221 =Usize=20 VSIze=32
+[2019.11.19-01.47.52:264][382]LogTTFontImport: Warning: A texture named Inkfree_Font_Dis_PageB already exists!
+[2019.11.19-01.47.53:822][382]LogTexture: Display: Building textures: Inkfree_Font_Dis_PageB (G8, 256X256)
+[2019.11.19-01.47.53:823][382]LogTTFontImport: OutPutGlyph X=64 Y=64 FontHeight=32 FontWidth=20 Char=00d4 U=4 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.53:825][382]LogTTFontImport: OutPutGlyph X=448 Y=64 FontHeight=32 FontWidth=20 Char=00d5 U=28 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.53:826][382]LogTTFontImport: OutPutGlyph X=832 Y=64 FontHeight=32 FontWidth=20 Char=00d6 U=52 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.53:828][382]LogTTFontImport: OutPutGlyph X=1216 Y=64 FontHeight=32 FontWidth=12 Char=00d7 U=76 V=5 =Usize=12 VSIze=32
+[2019.11.19-01.47.53:828][382]LogTTFontImport: OutPutGlyph X=1472 Y=64 FontHeight=32 FontWidth=20 Char=00d8 U=92 V=5 =Usize=20 VSIze=32
+[2019.11.19-01.47.53:830][382]LogTTFontImport: OutPutGlyph X=1856 Y=64 FontHeight=32 FontWidth=17 Char=00d9 U=116 V=5 =Usize=17 VSIze=32
+[2019.11.19-01.47.53:831][382]LogTTFontImport: OutPutGlyph X=2192 Y=64 FontHeight=32 FontWidth=17 Char=00da U=137 V=5 =Usize=17 VSIze=32
+[2019.11.19-01.47.53:833][382]LogTTFontImport: OutPutGlyph X=2528 Y=64 FontHeight=32 FontWidth=17 Char=00db U=158 V=5 =Usize=17 VSIze=32
+[2019.11.19-01.47.53:834][382]LogTTFontImport: OutPutGlyph X=2864 Y=64 FontHeight=32 FontWidth=17 Char=00dc U=179 V=5 =Usize=17 VSIze=32
+[2019.11.19-01.47.53:836][382]LogTTFontImport: OutPutGlyph X=3200 Y=64 FontHeight=32 FontWidth=13 Char=00dd U=200 V=5 =Usize=13 VSIze=32
+[2019.11.19-01.47.53:837][382]LogTTFontImport: OutPutGlyph X=3472 Y=64 FontHeight=32 FontWidth=13 Char=00de U=217 V=5 =Usize=13 VSIze=32
+[2019.11.19-01.47.53:837][382]LogTTFontImport: OutPutGlyph X=3744 Y=64 FontHeight=32 FontWidth=13 Char=00df U=234 V=5 =Usize=13 VSIze=32
+[2019.11.19-01.47.53:838][382]LogTTFontImport: OutPutGlyph X=64 Y=640 FontHeight=32 FontWidth=14 Char=00e0 U=4 V=41 =Usize=14 VSIze=32
+[2019.11.19-01.47.53:839][382]LogTTFontImport: OutPutGlyph X=352 Y=640 FontHeight=32 FontWidth=14 Char=00e1 U=22 V=41 =Usize=14 VSIze=32
+[2019.11.19-01.47.53:840][382]LogTTFontImport: OutPutGlyph X=640 Y=640 FontHeight=32 FontWidth=14 Char=00e2 U=40 V=41 =Usize=14 VSIze=32
+[2019.11.19-01.47.53:841][382]LogTTFontImport: OutPutGlyph X=928 Y=640 FontHeight=32 FontWidth=14 Char=00e3 U=58 V=41 =Usize=14 VSIze=32
+[2019.11.19-01.47.53:842][382]LogTTFontImport: OutPutGlyph X=1216 Y=640 FontHeight=32 FontWidth=14 Char=00e4 U=76 V=41 =Usize=14 VSIze=32
+[2019.11.19-01.47.53:844][382]LogTTFontImport: OutPutGlyph X=1504 Y=640 FontHeight=32 FontWidth=14 Char=00e5 U=94 V=41 =Usize=14 VSIze=32
+[2019.11.19-01.47.53:845][382]LogTTFontImport: OutPutGlyph X=1792 Y=640 FontHeight=32 FontWidth=20 Char=00e6 U=112 V=41 =Usize=20 VSIze=32
+[2019.11.19-01.47.53:846][382]LogTTFontImport: OutPutGlyph X=2176 Y=640 FontHeight=32 FontWidth=10 Char=00e7 U=136 V=41 =Usize=10 VSIze=32
+[2019.11.19-01.47.53:847][382]LogTTFontImport: OutPutGlyph X=2400 Y=640 FontHeight=32 FontWidth=12 Char=00e8 U=150 V=41 =Usize=12 VSIze=32
+[2019.11.19-01.47.53:847][382]LogTTFontImport: OutPutGlyph X=2656 Y=640 FontHeight=32 FontWidth=12 Char=00e9 U=166 V=41 =Usize=12 VSIze=32
+[2019.11.19-01.47.53:848][382]LogTTFontImport: OutPutGlyph X=2912 Y=640 FontHeight=32 FontWidth=12 Char=00ea U=182 V=41 =Usize=12 VSIze=32
+[2019.11.19-01.47.53:849][382]LogTTFontImport: OutPutGlyph X=3168 Y=640 FontHeight=32 FontWidth=12 Char=00eb U=198 V=41 =Usize=12 VSIze=32
+[2019.11.19-01.47.53:850][382]LogTTFontImport: OutPutGlyph X=3424 Y=640 FontHeight=32 FontWidth=6 Char=00ec U=214 V=41 =Usize=6 VSIze=32
+[2019.11.19-01.47.53:850][382]LogTTFontImport: OutPutGlyph X=3584 Y=640 FontHeight=32 FontWidth=6 Char=00ed U=224 V=41 =Usize=6 VSIze=32
+[2019.11.19-01.47.53:851][382]LogTTFontImport: OutPutGlyph X=3744 Y=640 FontHeight=32 FontWidth=6 Char=00ee U=234 V=41 =Usize=6 VSIze=32
+[2019.11.19-01.47.53:852][382]LogTTFontImport: OutPutGlyph X=3904 Y=640 FontHeight=32 FontWidth=6 Char=00ef U=244 V=41 =Usize=6 VSIze=32
+[2019.11.19-01.47.53:852][382]LogTTFontImport: OutPutGlyph X=64 Y=1216 FontHeight=32 FontWidth=11 Char=00f0 U=4 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.53:853][382]LogTTFontImport: OutPutGlyph X=304 Y=1216 FontHeight=32 FontWidth=12 Char=00f1 U=19 V=77 =Usize=12 VSIze=32
+[2019.11.19-01.47.53:854][382]LogTTFontImport: OutPutGlyph X=560 Y=1216 FontHeight=32 FontWidth=11 Char=00f2 U=35 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.53:854][382]LogTTFontImport: OutPutGlyph X=800 Y=1216 FontHeight=32 FontWidth=11 Char=00f3 U=50 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.53:855][382]LogTTFontImport: OutPutGlyph X=1040 Y=1216 FontHeight=32 FontWidth=11 Char=00f4 U=65 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.53:856][382]LogTTFontImport: OutPutGlyph X=1280 Y=1216 FontHeight=32 FontWidth=11 Char=00f5 U=80 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.53:856][382]LogTTFontImport: OutPutGlyph X=1520 Y=1216 FontHeight=32 FontWidth=11 Char=00f6 U=95 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.53:857][382]LogTTFontImport: OutPutGlyph X=1760 Y=1216 FontHeight=32 FontWidth=12 Char=00f7 U=110 V=77 =Usize=12 VSIze=32
+[2019.11.19-01.47.53:858][382]LogTTFontImport: OutPutGlyph X=2016 Y=1216 FontHeight=32 FontWidth=11 Char=00f8 U=126 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.53:859][382]LogTTFontImport: OutPutGlyph X=2256 Y=1216 FontHeight=32 FontWidth=13 Char=00f9 U=141 V=77 =Usize=13 VSIze=32
+[2019.11.19-01.47.53:860][382]LogTTFontImport: OutPutGlyph X=2528 Y=1216 FontHeight=32 FontWidth=13 Char=00fa U=158 V=77 =Usize=13 VSIze=32
+[2019.11.19-01.47.53:861][382]LogTTFontImport: OutPutGlyph X=2800 Y=1216 FontHeight=32 FontWidth=13 Char=00fb U=175 V=77 =Usize=13 VSIze=32
+[2019.11.19-01.47.53:862][382]LogTTFontImport: OutPutGlyph X=3072 Y=1216 FontHeight=32 FontWidth=13 Char=00fc U=192 V=77 =Usize=13 VSIze=32
+[2019.11.19-01.47.53:863][382]LogTTFontImport: OutPutGlyph X=3344 Y=1216 FontHeight=32 FontWidth=11 Char=00fd U=209 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.53:864][382]LogTTFontImport: OutPutGlyph X=3584 Y=1216 FontHeight=32 FontWidth=14 Char=00fe U=224 V=77 =Usize=14 VSIze=32
+[2019.11.19-01.47.53:865][382]LogTTFontImport: OutPutGlyph X=3872 Y=1216 FontHeight=32 FontWidth=11 Char=00ff U=242 V=77 =Usize=11 VSIze=32
+[2019.11.19-01.47.54:828][382]LogTexture: Display: Building textures: Inkfree_Font_Dis_PageC (G8, 256X128)
+[2019.11.19-01.47.54:834][382]LogTTFontImport: ImportTrueTypeFont: Total Time 4.31
+[2019.11.19-01.48.05:328][630]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/Inkfree_Font_DIsD57D77754888353B4850A7995C7951A3.tmp' to '../../../../Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/Inkfree_Font_DIs.uasset'
+[2019.11.19-01.48.15:552][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.19-01.48.24:246][154]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.11.19-01.48.24:267][154]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-01.48.24:267][154]LogMaterial: Display: 	SceneTexture expressions cannot be used in opaque materials
+[2019.11.19-01.49.00:443][607]LogMaterial: Display: Missing cached shader map for material InkFree_TextMaterial, compiling. 
+[2019.11.19-01.49.00:814][608]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2019.11.19-01.49.00:814][608]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2019.11.19-01.49.00:814][608]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2019.11.19-01.49.00:814][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.11.19-01.49.02:170][661]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/InkFree_TextMaterial.InkFree_TextMaterial
+[2019.11.19-01.49.02:192][661]LogMaterial: Display: Missing cached shader map for material InkFree_TextMaterial, compiling. 
+[2019.11.19-01.49.02:880][661]LogMaterial: Display: Missing cached shader map for material InkFree_TextMaterial, compiling. 
+[2019.11.19-01.49.02:914][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2019.11.19-01.49.04:142][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2019.11.19-01.49.04:264][714]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2019.11.19-01.49.04:356][718]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2019.11.19-01.49.04:553][729]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2019.11.19-01.49.04:599][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2019.11.19-01.49.04:666][737]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2019.11.19-01.49.04:827][747]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2019.11.19-01.49.04:947][753]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2019.11.19-01.49.05:025][757]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2019.11.19-01.49.05:025][757]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2019.11.19-01.49.05:300][773]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.11.19-01.49.05:327][774]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2019.11.19-01.49.05:341][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2019.11.19-01.49.05:749][801]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2019.11.19-01.49.05:764][802]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2019.11.19-01.49.05:909][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.11.19-01.49.06:109][825]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.11.19-01.49.06:156][828]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2019.11.19-01.49.06:263][832]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2019.11.19-01.49.06:414][839]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2019.11.19-01.49.06:464][842]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2019.11.19-01.49.06:659][850]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.11.19-01.49.06:829][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.11.19-01.49.06:881][862]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2019.11.19-01.49.06:920][864]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2019.11.19-01.49.06:943][865]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2019.11.19-01.49.07:100][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2019.11.19-01.49.07:146][873]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2019.11.19-01.49.07:166][875]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.11.19-01.49.07:195][877]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2019.11.19-01.49.07:370][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2019.11.19-01.49.07:429][891]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.11.19-01.49.07:502][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.11.19-01.49.07:810][915]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.11.19-01.49.07:911][922]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.11.19-01.49.08:141][937]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.11.19-01.49.08:225][942]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.11.19-01.49.08:325][949]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.11.19-01.49.08:487][958]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.11.19-01.49.08:791][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.11.19-01.49.08:885][970]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.11.19-01.49.09:021][976]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.11.19-01.49.09:093][979]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.11.19-01.49.09:216][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2019.11.19-01.49.09:323][990]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.11.19-01.49.09:473][997]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.11.19-01.49.09:666][  4]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.19-01.49.09:666][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.11.19-01.49.09:710][  5]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.11.19-01.49.09:710][  5]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2019.11.19-01.49.09:710][  5]MaterialEditorStats: Base pass vertex shader: 50 instructions
+[2019.11.19-01.49.09:710][  5]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.19-01.49.09:710][  5]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.19-01.49.09:710][  5]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.19-01.49.09:792][  8]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.11.19-01.49.09:904][ 13]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.11.19-01.49.10:033][ 18]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.19-01.49.10:033][ 18]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.11.19-01.49.47:167][ 63]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/InkFree_TextMaterial9B2BDEC3498456F5FEC5C28448301388.tmp' to '../../../../Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/InkFree_TextMaterial.uasset'
+[2019.11.19-01.49.47:318][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.11.19-01.49.47:351][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.11.19-01.49.47:381][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.11.19-01.50.13:191][  5]LogMaterial: Display: Missing cached shader map for material InkFree_TextMaterial, compiling. 
+[2019.11.19-01.50.13:218][  5]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2019.11.19-01.50.13:218][  5]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2019.11.19-01.50.13:218][  5]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2019.11.19-01.50.13:218][  5]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2019.11.19-01.50.13:221][  5]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2019.11.19-01.50.13:231][  5]LogMaterial: Display: Missing cached shader map for material InkFree_TextMaterial, compiling. 
+[2019.11.19-01.50.13:538][ 26]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2019.11.19-01.50.13:554][ 27]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2019.11.19-01.50.13:691][ 37]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2019.11.19-01.50.13:691][ 37]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2019.11.19-01.50.13:970][ 56]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2019.11.19-01.50.13:984][ 57]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.11.19-01.50.14:050][ 62]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2019.11.19-01.50.14:063][ 63]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2019.11.19-01.50.14:175][ 71]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2019.11.19-01.50.14:220][ 74]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2019.11.19-01.50.14:328][ 82]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2019.11.19-01.50.14:355][ 84]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.11.19-01.50.14:382][ 86]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.11.19-01.50.14:519][ 96]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.11.19-01.50.14:546][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2019.11.19-01.50.14:662][106]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.11.19-01.50.14:706][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.11.19-01.50.14:807][116]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.11.19-01.50.14:862][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2019.11.19-01.50.14:956][127]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2019.11.19-01.50.14:998][130]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2019.11.19-01.50.15:106][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2019.11.19-01.50.15:162][142]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2019.11.19-01.50.15:273][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2019.11.19-01.50.15:303][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2019.11.19-01.50.15:401][159]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.11.19-01.50.15:444][162]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.11.19-01.50.15:568][171]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.11.19-01.50.15:640][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2019.11.19-01.50.15:749][183]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.11.19-01.50.15:761][184]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.11.19-01.50.15:762][184]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.11.19-01.50.15:929][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.11.19-01.50.15:944][197]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.11.19-01.50.15:958][198]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.11.19-01.50.16:061][205]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.11.19-01.50.16:203][214]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.11.19-01.50.16:413][228]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.11.19-01.50.16:596][241]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.11.19-01.50.16:609][242]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.11.19-01.50.16:809][256]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.11.19-01.50.16:956][266]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.11.19-01.50.17:044][272]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.11.19-01.50.17:221][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.11.19-01.50.17:322][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.11.19-01.50.17:430][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.11.19-01.50.17:721][319]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.19-01.50.17:721][319]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.19-01.50.18:244][361]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.11.19-01.50.18:244][361]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2019.11.19-01.50.18:244][361]MaterialEditorStats: Base pass vertex shader: 50 instructions
+[2019.11.19-01.50.18:244][361]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.19-01.50.18:244][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.19-01.50.18:244][361]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.19-01.50.22:382][776]LogMaterialEditor: Saving and Compiling material InkFree_TextMaterial
+[2019.11.19-01.50.22:823][776]LogMaterial: Display: Missing cached shader map for material InkFree_TextMaterial, compiling. 
+[2019.11.19-01.50.22:894][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2019.11.19-01.50.22:894][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2019.11.19-01.50.22:894][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2019.11.19-01.50.22:894][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2019.11.19-01.50.22:914][776]LogMaterial: Display: Missing cached shader map for material InkFree_TextMaterial, compiling. 
+[2019.11.19-01.50.22:940][776]LogMaterial: Display: Missing cached shader map for material InkFree_TextMaterial, compiling. 
+[2019.11.19-01.50.23:003][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.11.19-01.50.23:039][776]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 85
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 85
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 83
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 81
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 80
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 79
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 77
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 75
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 73
+[2019.11.19-01.50.26:046][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2019.11.19-01.50.26:047][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 69
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 67
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 63
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 62
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 55
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 53
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.11.19-01.50.26:050][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2019.11.19-01.50.26:054][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.11.19-01.50.26:070][776]TextureStreamingBuild: Display: Compiling optional shaders took 3.066 seconds.
+[2019.11.19-01.50.26:114][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.11.19-01.50.28:897][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.11.19-01.50.28:897][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.11.19-01.50.28:897][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.11.19-01.50.28:897][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.11.19-01.50.28:897][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.11.19-01.50.28:897][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.19-01.50.28:897][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.11.19-01.50.29:115][776]LogSavePackage: Moving '../../../../Final year/RPGGame 4.23/Saved/InkFree_TextMaterial0D72076F431201341AD9BEB740E92632.tmp' to '../../../../Final year/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Font/InkFree_TextMaterial.uasset'
+[2019.11.19-01.50.59:191][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.50.59:263][977]BlueprintLog: New page: Compile Quest
+[2019.11.19-01.51.00:109][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.11.19-01.51.03:588][276]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-01.51.03:649][276]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.19-01.51.03:649][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-01.51.03:665][276]PIE: New page: PIE session: MapAlpha (Nov 19, 2019, 11:51:03 PM)
+[2019.11.19-01.51.03:683][276]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.19-01.51.03:691][276]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.19-01.51.03:703][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011973s)
+[2019.11.19-01.51.03:704][276]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.19-01.51.03:704][276]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2019.11.19-01.51.03:704][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.013645s)
+[2019.11.19-01.51.03:741][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.11.19-01.51.03:761][276]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.19-01.51.03:772][276]LogInit: FAudioDevice initialized.
+[2019.11.19-01.51.03:782][276]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.19-01.51.03:807][276]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.19-12.51.03
+[2019.11.19-01.51.03:848][276]LogWorld: Bringing up level for play took: 0.044466
+[2019.11.19-01.51.03:848][276]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.11.19-01.51.03:894][276]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.19-01.51.04:023][276]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 0.332
+[2019.11.19-01.51.04:023][276]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.19-01.51.15:078][336]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.19-01.51.17:225][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.51.17:330][569]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	Quest_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Quest_UI_C_0
+	Function /Game/EasyQuest/QuestSystem/Quest_UI/Quest_UI.Quest_UI_C:ExecuteUbergraph_Quest_UI:06D8
+[2019.11.19-01.51.31:838][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.19-01.51.31:864][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-01.51.31:864][105]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.19-01.51.31:876][105]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-01.51.31:899][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-01.51.31:900][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.19-01.51.31:959][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-01.51.31:986][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.11.19-01.51.32:030][106]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.19-01.51.33:138][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.51.33:188][196]BlueprintLog: New page: Compile Quest
+[2019.11.19-01.51.33:572][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
