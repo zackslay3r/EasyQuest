@@ -3485,3 +3485,156 @@ Script call stack:
 [2019.11.20-02.11.09:152][495]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
 [2019.11.20-02.11.09:457][495]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MapAlpha76BDB4BA437E1E0CFD521D88DE25326E.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Maps/MapAlpha.umap'
 [2019.11.20-02.11.09:590][495]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MapAlpha_BuiltData0E6951E94990121965EADBA86EC02CD7.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Maps/MapAlpha_BuiltData.uasset'
+[2019.11.20-02.14.46:116][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.14.46:240][551]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-02.14.46:301][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.14.46:301][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-02.14.46:301][551]PIE: New page: PIE session: MapAlpha (Nov 21, 2019, 12:14:46 AM)
+[2019.11.20-02.14.46:301][551]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-02.14.46:311][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009764s)
+[2019.11.20-02.14.46:312][551]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-02.14.46:313][551]LogPlayLevel: PIE: World Init took: (0.001529s)
+[2019.11.20-02.14.46:313][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.011505s)
+[2019.11.20-02.14.46:386][551]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2019.11.20-02.14.46:394][551]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-02.14.46:409][551]LogInit: FAudioDevice initialized.
+[2019.11.20-02.14.46:418][551]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-02.14.46:421][551]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-13.14.46
+[2019.11.20-02.14.46:422][551]LogWorld: Bringing up level for play took: 0.003484
+[2019.11.20-02.14.46:422][551]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2019.11.20-02.14.46:451][551]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 0.67
+[2019.11.20-02.14.46:451][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.14.48:903][750]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.20-02.14.50:276][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.14.50:332][875]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	Quest_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_52.Quest_UI_C_0
+	Function /Game/EasyQuest/QuestSystem/Quest_UI/Quest_UI.Quest_UI_C:ExecuteUbergraph_Quest_UI:06D8
+[2019.11.20-02.14.54:568][245]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.20-02.15.00:577][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.15.00:578][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.15.00:578][774]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-02.15.00:579][774]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.15.00:599][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-02.15.00:599][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.15.00:667][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.15.00:673][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.20-02.15.00:706][775]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2019.11.20-02.15.04:479][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.15.37:697][611]BlueprintLog: New page: Compile QuestTurnIn_UI
+[2019.11.20-02.15.37:791][611]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2019.11.20-02.15.45:275][840]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2019.11.20-02.15.45:631][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.20-02.15.45:941][840]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MapAlpha2355A8E74138A804C1369B8F9797DF09.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Maps/MapAlpha.umap'
+[2019.11.20-02.15.45:978][840]LogFileHelpers: Saving map 'MapAlpha' took 0.410
+[2019.11.20-02.15.46:077][840]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Enemy7D4ACB724AFC9270645105BAEF77A944.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2019.11.20-02.15.46:255][840]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Player91FF8D264C3D73F28F4639917AB36051.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Blueprints/Player/Player.uasset'
+[2019.11.20-02.15.46:298][840]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MagicProjectile888BB8844E8D8F443734E2AF3D367427.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.uasset'
+[2019.11.20-02.15.46:380][840]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/QuestTurnIn_UIC32D6C23441C02C3E02B299DC6A50C19.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/QuestTurnIn_UI.uasset'
+[2019.11.20-02.15.46:402][840]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Quest_FIrstRoom4F36CFA94E0A94967A9332A59D11A8FF.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quests/Quest_FIrstRoom.uasset'
+[2019.11.20-02.15.46:550][840]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Quest_SecondRoomCA9E407E46CE09F279317397386CA9CE.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quests/Quest_SecondRoom.uasset'
+[2019.11.20-02.15.46:698][840]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Quest_ThirdRoom0A484D5B4F012392B82F4893CC84E0CB.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quests/Quest_ThirdRoom.uasset'
+[2019.11.20-02.15.47:689][868]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-02.15.47:742][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.15.47:742][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-02.15.47:742][868]PIE: New page: PIE session: MapAlpha (Nov 21, 2019, 12:15:47 AM)
+[2019.11.20-02.15.47:742][868]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-02.15.47:753][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010176s)
+[2019.11.20-02.15.47:754][868]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-02.15.47:754][868]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2019.11.20-02.15.47:754][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.011654s)
+[2019.11.20-02.15.47:821][868]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2019.11.20-02.15.47:828][868]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-02.15.47:839][868]LogInit: FAudioDevice initialized.
+[2019.11.20-02.15.47:850][868]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-02.15.47:853][868]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-13.15.47
+[2019.11.20-02.15.47:854][868]LogWorld: Bringing up level for play took: 0.003244
+[2019.11.20-02.15.47:854][868]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2019.11.20-02.15.47:874][868]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 0.091
+[2019.11.20-02.15.47:874][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.15.49:248][983]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.20-02.15.50:607][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.15.59:009][899]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.20-02.16.00:264][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.16.03:777][344]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.20-02.16.04:969][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.16.05:056][465]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	Quest_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_53.Quest_UI_C_1
+	Function /Game/EasyQuest/QuestSystem/Quest_UI/Quest_UI.Quest_UI_C:ExecuteUbergraph_Quest_UI:06D8
+[2019.11.20-02.16.09:858][919]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.20-02.16.10:767][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.16.15:086][416]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.20-02.16.16:125][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.16.16:197][521]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	Quest_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_53.Quest_UI_C_2
+	Function /Game/EasyQuest/QuestSystem/Quest_UI/Quest_UI.Quest_UI_C:ExecuteUbergraph_Quest_UI:06D8
+[2019.11.20-02.16.20:047][877]LogBlueprintUserMessages: [Enemy_5] hit
+[2019.11.20-02.16.23:339][188]LogBlueprintUserMessages: [Enemy_5] hit
+[2019.11.20-02.16.25:034][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.16.25:035][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.16.25:035][349]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-02.16.25:035][349]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.16.25:051][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-02.16.25:052][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.16.25:123][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.16.25:130][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.11.20-02.16.25:160][350]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2019.11.20-02.16.28:749][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.16.41:172][302]BlueprintLog: New page: Compile Player
+[2019.11.20-02.16.41:573][302]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.11.20-02.16.43:484][372]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-02.16.43:553][372]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.16.43:553][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-02.16.43:553][372]PIE: New page: PIE session: MapAlpha (Nov 21, 2019, 12:16:43 AM)
+[2019.11.20-02.16.43:553][372]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-02.16.43:567][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013724s)
+[2019.11.20-02.16.43:569][372]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-02.16.43:569][372]LogPlayLevel: PIE: World Init took: (0.001609s)
+[2019.11.20-02.16.43:569][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.015710s)
+[2019.11.20-02.16.43:648][372]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2019.11.20-02.16.43:654][372]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-02.16.43:664][372]LogInit: FAudioDevice initialized.
+[2019.11.20-02.16.43:670][372]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-02.16.43:673][372]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-13.16.43
+[2019.11.20-02.16.43:674][372]LogWorld: Bringing up level for play took: 0.003261
+[2019.11.20-02.16.43:674][372]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2019.11.20-02.16.43:696][372]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha -0.089
+[2019.11.20-02.16.43:696][372]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.16.49:013][711]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.16.49:013][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.16.49:013][711]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-02.16.49:013][711]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.16.49:155][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-02.16.49:155][711]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.16.49:223][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.16.49:229][711]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.11.20-02.16.49:381][712]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.11.20-02.17.00:169][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.17.00:249][363]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-02.17.00:304][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.17.00:304][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-02.17.00:305][363]PIE: New page: PIE session: MapAlpha (Nov 21, 2019, 12:17:00 AM)
+[2019.11.20-02.17.00:305][363]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-02.17.00:314][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009021s)
+[2019.11.20-02.17.00:315][363]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-02.17.00:315][363]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2019.11.20-02.17.00:315][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.010434s)
+[2019.11.20-02.17.00:382][363]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.11.20-02.17.00:390][363]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-02.17.00:401][363]LogInit: FAudioDevice initialized.
+[2019.11.20-02.17.00:409][363]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-02.17.00:412][363]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-13.17.00
+[2019.11.20-02.17.00:413][363]LogWorld: Bringing up level for play took: 0.003178
+[2019.11.20-02.17.00:413][363]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2019.11.20-02.17.00:454][363]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 0.67
+[2019.11.20-02.17.00:454][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.17.01:963][457]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.20-02.17.03:243][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.17.04:627][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.17.04:627][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.17.04:627][639]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-02.17.04:627][639]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.17.04:772][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-02.17.04:773][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-02.17.04:843][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.17.04:848][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.11.20-02.17.04:988][640]LogPlayLevel: Display: Destroying online subsystem :Context_86
