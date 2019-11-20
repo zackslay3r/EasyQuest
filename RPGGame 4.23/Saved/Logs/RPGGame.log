@@ -1185,3 +1185,1002 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.20-00.56.48:265][518]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Quest_UI45F49D09408C5E7AD699538005F3B37F.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/Quest_UI.uasset'
 [2019.11.20-00.56.48:303][518]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/QuestObjectiveItem_UI3AC1F2EE4071BA9BD9C2EA990BF97669.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/QuestObjectiveItem_UI.uasset'
 [2019.11.20-00.56.48:369][518]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/QuestTurnIn_UI1228882648CDF59D139EFFA49ED072C3.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/QuestSystem/Quest_UI/QuestTurnIn_UI.uasset'
+[2019.11.20-00.57.51:708][712]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (RightArm_StaticMesh)
+[2019.11.20-00.57.52:215][712]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.20-00.57.53:159][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.11.20-00.57.59:549][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.20-00.58.02:531][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-00.58.04:552][570]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.20-00.58.16:768][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-00.58.38:380][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-00.59.04:957][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-00.59.05:749][175]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.20-00.59.32:140][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-00.59.35:411][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-00.59.37:246][416]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2019.11.20-01.00.22:318][770]Cmd: DELETE
+[2019.11.20-01.00.22:327][770]Cmd: ACTOR DELETE
+[2019.11.20-01.00.22:575][770]LogEditorActor: Deleted Actor: Brush
+[2019.11.20-01.00.22:632][770]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2019.11.20-01.00.22:636][770]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2019.11.20-01.00.29:682][355]Cmd: TRANSACTION UNDO
+[2019.11.20-01.00.29:682][355]LogEditorTransaction: Undo Delete Actors
+[2019.11.20-01.00.48:193][722]Cmd: DELETE
+[2019.11.20-01.00.48:194][722]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.11.20-01.00.48:194][722]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2019.11.20-01.00.48:194][722]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.20-01.00.49:769][845]Cmd: DELETE
+[2019.11.20-01.00.49:778][845]Cmd: ACTOR DELETE
+[2019.11.20-01.00.49:781][845]LogEditorActor: Deleted Actor: Brush
+[2019.11.20-01.00.49:834][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.11.20-01.00.49:839][845]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.11.20-01.00.51:491][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.00.53:999][186]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.20-01.01.11:710][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.01.14:168][691]Cmd: TRANSACTION UNDO
+[2019.11.20-01.01.14:168][691]LogEditorTransaction: Undo Scale Actors
+[2019.11.20-01.01.23:226][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.01.26:475][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.01.26:551][604]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.11.20-01.02.08:525][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.02.19:017][365]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2019.11.20-01.02.30:698][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.02.43:786][213]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.20-01.02.51:563][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.02.59:212][371]Cmd: TRANSACTION UNDO
+[2019.11.20-01.02.59:213][371]LogEditorTransaction: Undo Move Actors
+[2019.11.20-01.02.59:223][371]LogGeometryMode: Warning: Unable to find 3 Poly(s) in new BSP
+[2019.11.20-01.02.59:223][371]LogGeometryMode: Warning: Unable to resolve BoxBrush2_4 Brush in new BSP, see above
+[2019.11.20-01.02.59:223][371]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.20-01.03.20:518][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.03.22:000][119]Cmd: EDIT COPY
+[2019.11.20-01.03.25:679][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.03.28:327][596]Cmd: EDIT COPY
+[2019.11.20-01.03.29:381][677]Cmd: EDIT PASTE
+[2019.11.20-01.03.47:071][953]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.20-01.03.54:382][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.03.58:210][793]Cmd: EDIT COPY
+[2019.11.20-01.03.58:435][809]Cmd: EDIT PASTE
+[2019.11.20-01.04.42:513][ 13]Cmd: EDIT COPY
+[2019.11.20-01.04.42:759][ 31]Cmd: EDIT PASTE
+[2019.11.20-01.05.10:356][108]Cmd: EDIT COPY
+[2019.11.20-01.05.10:648][130]Cmd: EDIT PASTE
+[2019.11.20-01.05.17:251][635]Cmd: EDIT COPY
+[2019.11.20-01.05.17:520][655]Cmd: EDIT PASTE
+[2019.11.20-01.06.29:948][115]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.20-01.06.38:574][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.06.44:903][218]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.11.20-01.07.31:694][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.07.55:582][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.08.42:152][331]Cmd: EDIT COPY
+[2019.11.20-01.08.42:693][373]Cmd: EDIT PASTE
+[2019.11.20-01.08.56:874][454]Cmd: EDIT COPY
+[2019.11.20-01.09.00:562][740]Cmd: TRANSACTION UNDO
+[2019.11.20-01.09.00:562][740]LogEditorTransaction: Undo Move Actors
+[2019.11.20-01.09.01:651][813]Cmd: EDIT COPY
+[2019.11.20-01.09.01:996][839]Cmd: EDIT PASTE
+[2019.11.20-01.09.07:851][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.09.35:759][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.10.00:284][263]LogSlate: Window 'Select Path' being destroyed
+[2019.11.20-01.10.00:605][263]LogStaticMesh: Building static mesh SM_Map...
+[2019.11.20-01.10.00:659][263]LogStaticMesh: Built static mesh [0.04s] /Game/EasyQuest/SM_Map.SM_Map
+[2019.11.20-01.10.00:664][263]LogActorFactory: Actor Factory created SM_Map
+[2019.11.20-01.10.00:687][263]LogEditor: Error: Actor 'Brush /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.BoxBrush10' is marked pending kill and cannot be converted
+[2019.11.20-01.10.00:687][263]LogEditor: Error: Actor 'Brush /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2019.11.20-01.10.00:687][263]LogEditor: Error: Actor 'Brush /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.BoxBrush2_4' is marked pending kill and cannot be converted
+[2019.11.20-01.10.00:687][263]LogEditor: Error: Actor 'Brush /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2019.11.20-01.10.00:687][263]LogEditor: Error: Actor 'Brush /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2019.11.20-01.10.00:687][263]LogEditor: Error: Actor 'Brush /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.BoxBrush4' is marked pending kill and cannot be converted
+[2019.11.20-01.10.00:687][263]LogEditor: Error: Actor 'Brush /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.BoxBrush6' is marked pending kill and cannot be converted
+[2019.11.20-01.10.00:687][263]LogEditor: Error: Actor 'Brush /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.BoxBrush7' is marked pending kill and cannot be converted
+[2019.11.20-01.10.00:687][263]LogEditor: Error: Actor 'Brush /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.BoxBrush8' is marked pending kill and cannot be converted
+[2019.11.20-01.10.00:687][263]LogEditor: Error: Actor 'Brush /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.BoxBrush9' is marked pending kill and cannot be converted
+[2019.11.20-01.10.00:687][263]EditorErrors: New page: Actor Reattachment
+[2019.11.20-01.10.00:747][263]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.11.20-01.10.11:118][995]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/EasyQuest/SM_Map.SM_Map
+[2019.11.20-01.10.12:497][996]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2019.11.20-01.10.25:011][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.10.32:679][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.10.34:617][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.10.42:540][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.10.47:575][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.10.51:662][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.11.15:322][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.11.20:969][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.11.26:739][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.11.30:109][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.11.35:376][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.11.39:802][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.11.49:435][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.11.49:628][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EasyQuest/SM_Map" FILE="C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/SM_Map.uasset" SILENT=true
+[2019.11.20-01.11.49:644][181]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/SM_Map0633993A4E2A557F3EC642A01DE443A3.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/SM_Map.uasset'
+[2019.11.20-01.11.50:334][219]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.20-01.11.51:228][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Map)
+[2019.11.20-01.12.23:658][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.11.20-01.12.24:989][480]Cmd: DELETE
+[2019.11.20-01.12.24:989][480]Cmd: ACTOR DELETE
+[2019.11.20-01.12.24:995][480]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.25:113][480]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2019.11.20-01.12.25:113][480]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2019.11.20-01.12.25:632][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.11.20-01.12.25:984][534]Cmd: DELETE
+[2019.11.20-01.12.25:984][534]Cmd: ACTOR DELETE
+[2019.11.20-01.12.25:990][534]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.26:061][534]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.11.20-01.12.26:062][534]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2019.11.20-01.12.28:389][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.12.28:973][727]Cmd: DELETE
+[2019.11.20-01.12.28:973][727]Cmd: ACTOR DELETE
+[2019.11.20-01.12.29:028][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.20-01.12.29:029][727]LogEditorActor: Deleted 0 Actors (0.056 secs)
+[2019.11.20-01.12.30:318][813]Cmd: DELETE
+[2019.11.20-01.12.30:318][813]Cmd: ACTOR DELETE
+[2019.11.20-01.12.30:370][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.11.20-01.12.30:370][813]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2019.11.20-01.12.36:469][234]Cmd: DELETE
+[2019.11.20-01.12.36:469][234]Cmd: ACTOR DELETE
+[2019.11.20-01.12.36:476][234]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.36:526][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.11.20-01.12.36:526][234]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.11.20-01.12.37:475][296]Cmd: DELETE
+[2019.11.20-01.12.37:475][296]Cmd: ACTOR DELETE
+[2019.11.20-01.12.37:481][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.37:537][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.11.20-01.12.37:538][296]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.11.20-01.12.40:987][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.20-01.12.41:557][549]Cmd: DELETE
+[2019.11.20-01.12.41:557][549]Cmd: ACTOR DELETE
+[2019.11.20-01.12.41:563][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.41:616][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.11.20-01.12.41:616][549]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.11.20-01.12.46:746][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2019.11.20-01.12.46:851][892]Cmd: DELETE
+[2019.11.20-01.12.46:851][892]Cmd: ACTOR DELETE
+[2019.11.20-01.12.46:857][892]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.46:908][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.20-01.12.46:908][892]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.11.20-01.12.47:504][922]LogEditorViewport: Clicking on Actor (LMB): HealthPickup_C (HealthPickup)
+[2019.11.20-01.12.47:739][922]Cmd: DELETE
+[2019.11.20-01.12.47:739][922]Cmd: ACTOR DELETE
+[2019.11.20-01.12.47:745][922]LogEditorActor: Deleted Actor: HealthPickup_C
+[2019.11.20-01.12.47:801][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.11.20-01.12.47:802][922]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.11.20-01.12.48:598][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2019.11.20-01.12.48:709][978]Cmd: DELETE
+[2019.11.20-01.12.48:709][978]Cmd: ACTOR DELETE
+[2019.11.20-01.12.48:715][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.48:769][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.11.20-01.12.48:770][978]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.11.20-01.12.49:615][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.11.20-01.12.49:706][ 35]Cmd: DELETE
+[2019.11.20-01.12.49:706][ 35]Cmd: ACTOR DELETE
+[2019.11.20-01.12.49:711][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.49:761][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.11.20-01.12.49:762][ 35]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.11.20-01.12.51:562][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2019.11.20-01.12.51:652][145]Cmd: DELETE
+[2019.11.20-01.12.51:652][145]Cmd: ACTOR DELETE
+[2019.11.20-01.12.51:658][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.51:713][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.11.20-01.12.51:714][145]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.11.20-01.12.52:340][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2019.11.20-01.12.52:458][179]Cmd: DELETE
+[2019.11.20-01.12.52:459][179]Cmd: ACTOR DELETE
+[2019.11.20-01.12.52:464][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.52:521][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.20-01.12.52:522][179]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.11.20-01.12.54:068][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2019.11.20-01.12.54:213][271]Cmd: DELETE
+[2019.11.20-01.12.54:213][271]Cmd: ACTOR DELETE
+[2019.11.20-01.12.54:218][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.12.54:273][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.11.20-01.12.54:274][271]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.11.20-01.13.05:535][989]LogEditorViewport: Clicking on Actor (LMB): Item_Herb_C (Item_Herb15)
+[2019.11.20-01.13.06:369][ 35]Cmd: DELETE
+[2019.11.20-01.13.06:369][ 35]Cmd: ACTOR DELETE
+[2019.11.20-01.13.06:375][ 35]LogEditorActor: Deleted Actor: Item_Herb_C
+[2019.11.20-01.13.06:430][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.20-01.13.06:430][ 35]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.11.20-01.13.08:265][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Map)
+[2019.11.20-01.13.08:597][148]Cmd: DELETE
+[2019.11.20-01.13.08:597][148]Cmd: ACTOR DELETE
+[2019.11.20-01.13.08:603][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-01.13.08:658][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.20-01.13.08:659][148]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.11.20-01.13.10:376][262]Cmd: TRANSACTION UNDO
+[2019.11.20-01.13.10:376][262]LogEditorTransaction: Undo Delete Actors
+[2019.11.20-01.13.11:213][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.13.12:382][349]Cmd: DELETE
+[2019.11.20-01.13.12:382][349]Cmd: ACTOR DELETE
+[2019.11.20-01.13.12:388][349]LogEditorActor: Actor Enemy is referenced by Quest_KillAnNPC.
+[2019.11.20-01.13.16:158][349]LogSlate: Window 'Message' being destroyed
+[2019.11.20-01.13.16:215][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.11.20-01.13.16:216][349]LogEditorActor: Deleted 0 Actors (0.059 secs)
+[2019.11.20-01.13.17:503][423]Cmd: DELETE
+[2019.11.20-01.13.17:504][423]Cmd: ACTOR DELETE
+[2019.11.20-01.13.17:504][423]LogEditorActor: Deleted Actor: SimpleNpc_C
+[2019.11.20-01.13.17:559][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.11.20-01.13.17:560][423]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.11.20-01.13.19:556][557]Cmd: DELETE
+[2019.11.20-01.13.19:556][557]Cmd: ACTOR DELETE
+[2019.11.20-01.13.19:562][557]LogEditorActor: Deleted Actor: Quest_KillAnNPC_C
+[2019.11.20-01.13.19:615][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.11.20-01.13.19:616][557]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.11.20-01.13.20:969][647]Cmd: DELETE
+[2019.11.20-01.13.20:969][647]Cmd: ACTOR DELETE
+[2019.11.20-01.13.20:975][647]LogEditorActor: Actor Item_Herb is referenced by Quest_002.
+[2019.11.20-01.13.23:102][647]LogSlate: Window 'Message' being destroyed
+[2019.11.20-01.13.23:107][647]LogEditorActor: Deleted Actor: Item_Herb_C
+[2019.11.20-01.13.23:161][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.11.20-01.13.23:161][647]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.11.20-01.13.24:069][705]Cmd: DELETE
+[2019.11.20-01.13.24:069][705]Cmd: ACTOR DELETE
+[2019.11.20-01.13.24:076][705]LogEditorActor: Deleted Actor: Item_Herb_C
+[2019.11.20-01.13.24:127][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.11.20-01.13.24:128][705]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.11.20-01.13.25:353][786]Cmd: DELETE
+[2019.11.20-01.13.25:353][786]Cmd: ACTOR DELETE
+[2019.11.20-01.13.25:361][786]LogEditorActor: Deleted Actor: Item_Herb_C
+[2019.11.20-01.13.25:415][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.11.20-01.13.25:416][786]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.11.20-01.13.26:190][833]Cmd: DELETE
+[2019.11.20-01.13.26:190][833]Cmd: ACTOR DELETE
+[2019.11.20-01.13.26:196][833]LogEditorActor: Deleted Actor: SimpleNpc_C
+[2019.11.20-01.13.26:254][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.11.20-01.13.26:255][833]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.11.20-01.13.26:976][879]Cmd: DELETE
+[2019.11.20-01.13.26:976][879]Cmd: ACTOR DELETE
+[2019.11.20-01.13.26:982][879]LogEditorActor: Deleted Actor: Quest_001_C
+[2019.11.20-01.13.27:034][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.20-01.13.27:035][879]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2019.11.20-01.13.27:732][921]Cmd: DELETE
+[2019.11.20-01.13.27:732][921]Cmd: ACTOR DELETE
+[2019.11.20-01.13.27:738][921]LogEditorActor: Deleted Actor: SimpleNpc_C
+[2019.11.20-01.13.27:792][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.11.20-01.13.27:792][921]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.11.20-01.13.28:515][964]Cmd: DELETE
+[2019.11.20-01.13.28:515][964]Cmd: ACTOR DELETE
+[2019.11.20-01.13.28:522][964]LogEditorActor: Deleted Actor: SimpleNpc_C
+[2019.11.20-01.13.28:577][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.11.20-01.13.28:578][964]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.11.20-01.13.29:573][ 29]Cmd: DELETE
+[2019.11.20-01.13.29:573][ 29]Cmd: ACTOR DELETE
+[2019.11.20-01.13.29:580][ 29]LogEditorActor: Deleted Actor: Quest_002_C
+[2019.11.20-01.13.29:638][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.11.20-01.13.29:639][ 29]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2019.11.20-01.13.30:523][ 84]Cmd: DELETE
+[2019.11.20-01.13.30:523][ 84]Cmd: ACTOR DELETE
+[2019.11.20-01.13.30:529][ 84]LogEditorActor: Deleted Actor: Enemy_C
+[2019.11.20-01.13.30:587][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.11.20-01.13.30:588][ 84]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.11.20-01.13.31:118][114]Cmd: DELETE
+[2019.11.20-01.13.31:118][114]Cmd: ACTOR DELETE
+[2019.11.20-01.13.31:124][114]LogEditorActor: Deleted Actor: Enemy_C
+[2019.11.20-01.13.31:180][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.11.20-01.13.31:181][114]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.11.20-01.13.32:613][210]Cmd: DELETE
+[2019.11.20-01.13.32:613][210]Cmd: ACTOR DELETE
+[2019.11.20-01.13.32:670][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.20-01.13.32:670][210]LogEditorActor: Deleted 0 Actors (0.056 secs)
+[2019.11.20-01.13.34:288][319]Cmd: DELETE
+[2019.11.20-01.13.34:288][319]Cmd: ACTOR DELETE
+[2019.11.20-01.13.34:293][319]LogEditorActor: Deleted Actor: LocationMarker_C
+[2019.11.20-01.13.34:349][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.11.20-01.13.34:350][319]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.11.20-01.13.40:417][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Map)
+[2019.11.20-01.13.41:003][773]LogEditorViewport: Clicking on Actor (LMB): Player_C (ThirdPersonCharacter)
+[2019.11.20-01.13.47:165][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.13.47:236][118]MapCheck: New page: Map Check
+[2019.11.20-01.13.47:272][118]Cmd: MAP REBUILD ALLVISIBLE
+[2019.11.20-01.13.47:281][118]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.11.20-01.13.47:290][118]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=false
+[2019.11.20-01.13.47:355][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2019.11.20-01.13.47:625][118]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.20-01.13.47:670][118]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.20-01.13.47:678][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.20-01.13.47:678][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.20-01.13.47:678][118]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.20-01.13.47:684][118]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.20-01.13.48:987][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.11.20-01.13.48:987][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.11.20-01.13.48:987][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.11.20-01.13.48:987][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.11.20-01.13.48:987][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.11.20-01.13.48:987][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.20-01.13.48:987][118]TextureStreamingBuild: Display: Compiling optional shaders took 1.370 seconds.
+[2019.11.20-01.13.49:010][118]LogLevel: Display: Export Material TexCoord Scales took 0.023 seconds.
+[2019.11.20-01.13.49:063][118]TextureStreamingBuild: Display: Build Texture Streaming took 0.052 seconds.
+[2019.11.20-01.13.49:113][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.11.20-01.13.49:119][118]LightingResults: New page: Lighting Build - Nov 20, 2019, 11:13:49 PM
+[2019.11.20-01.13.49:250][118]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.11.20-01.13.49:388][118]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.11.20-01.13.49:397][118]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.11.20-01.13.49:903][118]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.11.20-01.13.49:903][118]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5596
+[2019.11.20-01.13.52:412][118]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.11.20-01.13.52:412][118]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.11.20-01.13.52:412][118]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.11.20-01.13.52:412][118]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.11.20-01.13.52:412][118]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.11.20-01.13.52:584][118]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2019.11.20-01.13.52:596][118]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2019.11.20-01.13.52:988][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.20-01.13.52:988][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.20-01.13.52:988][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.11.20-01.13.52:988][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.20-01.13.52:988][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.11.20-01.13.54:056][118]Job is a success!
+[2019.11.20-01.13.54:135][118]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.034s
+[2019.11.20-01.13.54:135][118]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.11.20-01.13.54:135][118]LogVolumetricLightmapImport:      BrickData 150x5x5 = 0.1Mb
+[2019.11.20-01.13.54:135][118]LogVolumetricLightmapImport:      Bricks at Level
+[2019.11.20-01.13.54:135][118]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2019.11.20-01.13.54:135][118]LogVolumetricLightmapImport:          1: 13.3% covering 6.3% of volume
+[2019.11.20-01.13.54:135][118]LogVolumetricLightmapImport:          2: 83.3% covering 0.6% of volume
+[2019.11.20-01.13.54:175][118]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 64X32)
+[2019.11.20-01.13.54:175][118]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2019.11.20-01.13.54:175][118]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2019.11.20-01.13.54:175][118]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X32)
+[2019.11.20-01.13.54:175][118]Lightmass on CAN-47344D: 644 ms total, 123 ms importing, 20 ms setup, 84 ms photons, 359 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.51 sec total, 96 ms processing.
+[2019.11.20-01.13.54:175][118]LogStaticLightingSystem: MapAlpha_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2019.11.20-01.13.54:233][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.11.20-01.13.54:236][118]LogStaticLightingSystem: Illumination: 5.11 sec (4 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2019.11.20-01.13.54:237][118]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.11.20-01.13.54:237][118]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.11.20-01.13.54:383][118]DumpUnbuiltLightIteractions
+[2019.11.20-01.13.54:383][118]Lights with unbuilt interactions: 0
+[2019.11.20-01.13.54:383][118]
+[2019.11.20-01.13.54:383][118]Primitives with unbuilt interactions: 0
+[2019.11.20-01.13.54:422][118]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.11.20-01.13.54:422][118]MapCheck: New page: MapAlpha - Nov 20, 2019, 11:13:54 PM
+[2019.11.20-01.13.54:423][118]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.369ms to complete.
+[2019.11.20-01.13.54:424][118]LogEditorBuildUtils: Build time 0:07
+[2019.11.20-01.13.54:816][119]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.11.20-01.13.54:816][119]MapCheck: New page: MapAlpha - Nov 20, 2019, 11:13:54 PM
+[2019.11.20-01.13.54:816][119]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.333ms to complete.
+[2019.11.20-01.13.57:096][231]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.13.57:151][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.13.57:151][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.13.57:151][231]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:13:57 PM)
+[2019.11.20-01.13.57:151][231]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.13.57:163][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011236s)
+[2019.11.20-01.13.57:164][231]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.13.57:164][231]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2019.11.20-01.13.57:164][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.012815s)
+[2019.11.20-01.13.57:257][231]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2019.11.20-01.13.57:264][231]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.13.57:277][231]LogInit: FAudioDevice initialized.
+[2019.11.20-01.13.57:281][231]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.13.57:283][231]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.13.57
+[2019.11.20-01.13.57:284][231]LogWorld: Bringing up level for play took: 0.001099
+[2019.11.20-01.13.57:284][231]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.11.20-01.13.57:293][231]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha -0.408
+[2019.11.20-01.13.57:293][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.13.58:641][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.13.58:641][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.13.58:641][364]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.13.58:641][364]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.13.58:649][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.13.58:649][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.13.58:713][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.13.58:731][364]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2019.11.20-01.13.58:759][365]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.11.20-01.14.03:855][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Map)
+[2019.11.20-01.14.09:591][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.14.09:780][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EasyQuest/SM_Map" FILE="C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/SM_Map.uasset" SILENT=true
+[2019.11.20-01.14.09:801][ 34]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/SM_Map0CCC19D9444FB568152F63BE28932023.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/SM_Map.uasset'
+[2019.11.20-01.14.10:059][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EasyQuest/SM_Map" FILE="C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/SM_Map.uasset" SILENT=true
+[2019.11.20-01.14.10:073][ 44]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/SM_Map512396314345272A42E7918B64D407C6.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/SM_Map.uasset'
+[2019.11.20-01.14.11:214][115]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.14.11:268][115]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.11:268][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.14.11:268][115]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:14:11 PM)
+[2019.11.20-01.14.11:268][115]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.14.11:279][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010384s)
+[2019.11.20-01.14.11:280][115]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.14.11:280][115]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2019.11.20-01.14.11:280][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.011832s)
+[2019.11.20-01.14.11:337][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.11.20-01.14.11:344][115]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.14.11:356][115]LogInit: FAudioDevice initialized.
+[2019.11.20-01.14.11:363][115]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.14.11:365][115]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.14.11
+[2019.11.20-01.14.11:365][115]LogWorld: Bringing up level for play took: 0.001149
+[2019.11.20-01.14.11:365][115]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2019.11.20-01.14.11:377][115]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha -0.322
+[2019.11.20-01.14.11:378][115]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.12:451][216]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.12:452][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.14.12:452][216]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.14.12:452][216]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.14.12:459][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.14.12:459][216]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.12:524][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.14.12:530][216]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.11.20-01.14.12:553][217]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.11.20-01.14.16:827][477]LogEditorViewport: Clicking on Actor (LMB): Player_C (ThirdPersonCharacter)
+[2019.11.20-01.14.19:803][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.14.19:874][632]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.14.19:924][632]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.19:924][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.14.19:924][632]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:14:19 PM)
+[2019.11.20-01.14.19:924][632]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.14.19:933][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009769s)
+[2019.11.20-01.14.19:934][632]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.14.19:934][632]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2019.11.20-01.14.19:935][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.011105s)
+[2019.11.20-01.14.19:986][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.11.20-01.14.19:993][632]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.14.20:003][632]LogInit: FAudioDevice initialized.
+[2019.11.20-01.14.20:012][632]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.14.20:014][632]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.14.20
+[2019.11.20-01.14.20:014][632]LogWorld: Bringing up level for play took: 0.000934
+[2019.11.20-01.14.20:015][632]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.11.20-01.14.20:023][632]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 0.323
+[2019.11.20-01.14.20:023][632]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.21:376][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.21:376][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.14.21:376][774]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.14.21:377][774]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.14.21:384][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.14.21:384][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.21:452][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.14.21:460][774]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2019.11.20-01.14.21:486][775]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.11.20-01.14.31:854][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.14.34:469][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.14.34:540][802]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.14.34:591][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.34:591][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.14.34:591][802]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:14:34 PM)
+[2019.11.20-01.14.34:591][802]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.14.34:602][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010445s)
+[2019.11.20-01.14.34:603][802]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.14.34:603][802]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2019.11.20-01.14.34:603][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.011869s)
+[2019.11.20-01.14.34:660][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.11.20-01.14.34:666][802]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.14.34:678][802]LogInit: FAudioDevice initialized.
+[2019.11.20-01.14.34:686][802]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.14.34:688][802]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.14.34
+[2019.11.20-01.14.34:688][802]LogWorld: Bringing up level for play took: 0.001114
+[2019.11.20-01.14.34:688][802]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2019.11.20-01.14.34:698][802]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 0.997
+[2019.11.20-01.14.34:698][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.52:406][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.52:407][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.14.52:407][831]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.14.52:407][831]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.14.52:415][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.14.52:415][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.14.52:475][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.14.52:480][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.11.20-01.14.52:508][832]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.11.20-01.14.53:363][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Map)
+[2019.11.20-01.14.54:868][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.15.10:170][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.15.18:979][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.15.19:038][396]MapCheck: New page: Map Check
+[2019.11.20-01.15.19:071][396]Cmd: MAP REBUILD ALLVISIBLE
+[2019.11.20-01.15.19:071][396]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.11.20-01.15.19:077][396]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=false
+[2019.11.20-01.15.19:138][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.11.20-01.15.19:195][396]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.20-01.15.19:203][396]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.20-01.15.19:210][396]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.11.20-01.15.19:211][396]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.11.20-01.15.19:211][396]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.11.20-01.15.19:211][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.20-01.15.19:211][396]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.20-01.15.19:219][396]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.20-01.15.19:733][396]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.11.20-01.15.19:733][396]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.11.20-01.15.19:733][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.11.20-01.15.19:733][396]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.20-01.15.19:733][396]TextureStreamingBuild: Display: Compiling optional shaders took 0.542 seconds.
+[2019.11.20-01.15.19:741][396]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2019.11.20-01.15.19:797][396]TextureStreamingBuild: Display: Build Texture Streaming took 0.055 seconds.
+[2019.11.20-01.15.19:851][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.11.20-01.15.19:851][396]LightingResults: New page: Lighting Build - Nov 20, 2019, 11:15:19 PM
+[2019.11.20-01.15.19:857][396]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.11.20-01.15.19:859][396]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.11.20-01.15.19:859][396]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.11.20-01.15.19:860][396]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.11.20-01.15.19:860][396]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5596
+[2019.11.20-01.15.24:615][396]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.11.20-01.15.24:615][396]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.11.20-01.15.24:615][396]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.11.20-01.15.24:616][396]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.11.20-01.15.24:616][396]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.11.20-01.15.24:713][396]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2019.11.20-01.15.24:723][396]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.20-01.15.24:723][396]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.20-01.15.24:723][396]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2019.11.20-01.15.25:105][396]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.11.20-01.15.25:105][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.20-01.15.25:105][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.11.20-01.15.26:033][396]Job is a success!
+[2019.11.20-01.15.26:073][396]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2019.11.20-01.15.26:073][396]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.11.20-01.15.26:073][396]LogVolumetricLightmapImport:      BrickData 150x5x5 = 0.1Mb
+[2019.11.20-01.15.26:073][396]LogVolumetricLightmapImport:      Bricks at Level
+[2019.11.20-01.15.26:073][396]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2019.11.20-01.15.26:073][396]LogVolumetricLightmapImport:          1: 13.3% covering 6.3% of volume
+[2019.11.20-01.15.26:073][396]LogVolumetricLightmapImport:          2: 83.3% covering 0.6% of volume
+[2019.11.20-01.15.26:095][396]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 64X64)
+[2019.11.20-01.15.26:095][396]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 64X64)
+[2019.11.20-01.15.26:095][396]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 64X32)
+[2019.11.20-01.15.26:095][396]LogStaticLightingSystem: MapAlpha_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2019.11.20-01.15.26:157][396]Lightmass on CAN-47344D: 586 ms total, 115 ms importing, 20 ms setup, 87 ms photons, 337 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.36 sec total, 90 ms processing.
+[2019.11.20-01.15.26:157][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.11.20-01.15.26:160][396]LogStaticLightingSystem: Illumination: 6.30 sec (3 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.11.20-01.15.26:160][396]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.11.20-01.15.26:160][396]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.11.20-01.15.26:617][396]DumpUnbuiltLightIteractions
+[2019.11.20-01.15.26:617][396]Lights with unbuilt interactions: 0
+[2019.11.20-01.15.26:617][396]
+[2019.11.20-01.15.26:617][396]Primitives with unbuilt interactions: 0
+[2019.11.20-01.15.26:671][396]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.11.20-01.15.26:671][396]MapCheck: New page: MapAlpha - Nov 20, 2019, 11:15:26 PM
+[2019.11.20-01.15.26:672][396]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.294ms to complete.
+[2019.11.20-01.15.26:673][396]LogEditorBuildUtils: Build time 0:07
+[2019.11.20-01.15.26:785][397]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.11.20-01.15.26:785][397]MapCheck: New page: MapAlpha - Nov 20, 2019, 11:15:26 PM
+[2019.11.20-01.15.26:785][397]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.347ms to complete.
+[2019.11.20-01.15.58:790][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.16.17:800][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.16.19:806][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Map)
+[2019.11.20-01.16.27:430][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.16.49:222][965]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.16.49:276][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.16.49:276][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.16.49:276][965]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:16:49 PM)
+[2019.11.20-01.16.49:276][965]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.16.49:287][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011079s)
+[2019.11.20-01.16.49:288][965]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.16.49:289][965]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2019.11.20-01.16.49:289][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.012531s)
+[2019.11.20-01.16.49:351][965]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.11.20-01.16.49:361][965]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.16.49:372][965]LogInit: FAudioDevice initialized.
+[2019.11.20-01.16.49:378][965]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.16.49:379][965]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.16.49
+[2019.11.20-01.16.49:379][965]LogWorld: Bringing up level for play took: 0.001179
+[2019.11.20-01.16.49:380][965]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2019.11.20-01.16.49:390][965]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha -0.31
+[2019.11.20-01.16.49:390][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.17.10:963][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.17.10:964][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.17.10:964][383]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.17.10:964][383]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.17.10:976][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.17.10:976][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.17.11:038][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.17.11:043][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.11.20-01.17.11:072][384]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.11.20-01.17.38:334][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.17.41:253][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.11.20-01.17.41:529][274]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MapAlpha_Auto1E2F393C9406A0908CE3F1D99ABFBCE59.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha_Auto1.umap'
+[2019.11.20-01.17.41:539][274]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha' took 0.340
+[2019.11.20-01.17.41:539][274]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.340
+[2019.11.20-01.17.41:543][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EasyQuest/SM_Map] ([1] browsable assets)...
+[2019.11.20-01.17.41:555][274]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EasyQuest/SM_Map.SM_Map]
+[2019.11.20-01.17.41:555][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/EasyQuest/SM_Map]
+[2019.11.20-01.17.41:555][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EasyQuest/SM_Map" FILE="C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/SM_Map_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.20-01.17.41:578][274]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/SM_Map_Auto12D7DF6FF4D0F63411E7E40A58FDF0CFB.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/SM_Map_Auto1.uasset'
+[2019.11.20-01.17.41:579][274]LogFileHelpers: Auto-saving content packages took 0.036
+[2019.11.20-01.18.07:370][773]LogLinker: Warning: Missing Class EVEBP_C for 'EVEBP_C /Game/EasyQuest/ThirdPersonBP/Blueprints/MageCharacter/EVEBP.Default__EVEBP_C' referenced by package '/Game/ThirdPersonBP/Blueprints/MageCharacter/EVEBP'.  Classes should not be removed if referenced by content; mark the class 'deprecated' instead.
+[2019.11.20-01.18.07:611][773]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2019.11.20-01.18.16:520][773]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.20-01.18.16:524][773]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/MageCharacter/EVEBP : Failed import for EVEBP_C /Game/EasyQuest/ThirdPersonBP/Blueprints/MageCharacter/EVEBP.Default__EVEBP_C Referenced by export ObjectRedirector /Game/ThirdPersonBP/Blueprints/MageCharacter/EVEBP.Default__EVEBP_C
+[2019.11.20-01.18.29:848][426]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile
+[2019.11.20-01.19.26:222][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.19.36:498][864]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EasyQuest/ThirdPersonBP/Blueprints/Enemy.Enemy
+[2019.11.20-01.20.13:075][146]BlueprintLog: New page: Compile MagicProjectile
+[2019.11.20-01.20.13:387][146]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2019.11.20-01.20.14:735][222]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.20.14:802][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.20.14:802][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.20.14:802][222]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:20:14 PM)
+[2019.11.20-01.20.14:802][222]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.20.14:813][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010382s)
+[2019.11.20-01.20.14:814][222]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.20.14:814][222]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2019.11.20-01.20.14:814][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.011743s)
+[2019.11.20-01.20.14:880][222]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2019.11.20-01.20.14:886][222]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.20.14:898][222]LogInit: FAudioDevice initialized.
+[2019.11.20-01.20.14:906][222]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.20.14:907][222]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.20.14
+[2019.11.20-01.20.14:908][222]LogWorld: Bringing up level for play took: 0.001001
+[2019.11.20-01.20.14:908][222]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2019.11.20-01.20.14:917][222]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha -0.789
+[2019.11.20-01.20.14:918][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.20.28:024][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.20.28:024][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.20.28:024][528]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.20.28:024][528]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.20.28:035][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.20.28:035][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.20.28:100][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.20.28:105][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.11.20-01.20.28:138][529]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.11.20-01.20.30:083][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.20.35:330][931]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MagicProjectileCDA910A34DC4E7C1E6156AB68E44E7E9.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.uasset'
+[2019.11.20-01.21.41:730][544]BlueprintLog: New page: Compile MagicProjectile
+[2019.11.20-01.21.42:048][544]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2019.11.20-01.21.43:173][604]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.21.43:235][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.21.43:235][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.21.43:235][604]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:21:43 PM)
+[2019.11.20-01.21.43:235][604]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.21.43:245][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010357s)
+[2019.11.20-01.21.43:246][604]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.21.43:247][604]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2019.11.20-01.21.43:247][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.011786s)
+[2019.11.20-01.21.43:312][604]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2019.11.20-01.21.43:318][604]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.21.43:329][604]LogInit: FAudioDevice initialized.
+[2019.11.20-01.21.43:340][604]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.21.43:342][604]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.21.43
+[2019.11.20-01.21.43:342][604]LogWorld: Bringing up level for play took: 0.001011
+[2019.11.20-01.21.43:342][604]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2019.11.20-01.21.43:352][604]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha -0.358
+[2019.11.20-01.21.43:352][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.21.53:023][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.21.53:023][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.21.53:023][578]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.21.53:023][578]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.21.53:034][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.21.53:035][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.21.53:101][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.21.53:107][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.11.20-01.21.53:137][579]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.11.20-01.21.55:104][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.22.30:761][353]BlueprintLog: New page: Compile MagicProjectile
+[2019.11.20-01.22.31:092][353]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2019.11.20-01.22.32:183][411]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.22.32:246][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.22.32:247][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.22.32:247][411]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:22:32 PM)
+[2019.11.20-01.22.32:247][411]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.22.32:258][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011122s)
+[2019.11.20-01.22.32:259][411]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.22.32:259][411]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2019.11.20-01.22.32:259][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.012341s)
+[2019.11.20-01.22.32:324][411]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2019.11.20-01.22.32:330][411]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.22.32:341][411]LogInit: FAudioDevice initialized.
+[2019.11.20-01.22.32:348][411]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.22.32:350][411]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.22.32
+[2019.11.20-01.22.32:351][411]LogWorld: Bringing up level for play took: 0.001050
+[2019.11.20-01.22.32:351][411]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2019.11.20-01.22.32:360][411]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 0.649
+[2019.11.20-01.22.32:360][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.22.37:418][911]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.22.37:418][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.22.37:418][911]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.22.37:418][911]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.22.37:426][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.22.37:426][911]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.22.37:487][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.22.37:492][911]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.11.20-01.22.37:527][912]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.11.20-01.22.38:611][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.22.46:622][439]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.22.46:685][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.22.46:685][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.22.46:685][439]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:22:46 PM)
+[2019.11.20-01.22.46:685][439]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.22.46:696][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010654s)
+[2019.11.20-01.22.46:697][439]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.22.46:697][439]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2019.11.20-01.22.46:697][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.012351s)
+[2019.11.20-01.22.46:759][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.11.20-01.22.46:766][439]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.22.46:777][439]LogInit: FAudioDevice initialized.
+[2019.11.20-01.22.46:782][439]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.22.46:784][439]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.22.46
+[2019.11.20-01.22.46:784][439]LogWorld: Bringing up level for play took: 0.000890
+[2019.11.20-01.22.46:784][439]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2019.11.20-01.22.46:794][439]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 1.082
+[2019.11.20-01.22.46:795][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.22.49:293][679]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 153
+[2019.11.20-01.22.49:293][679]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ReceiveActorBeginOverlap
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ExecuteUbergraph_MagicProjectile
+
+[2019.11.20-01.22.49:296][679]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.20-01.22.49:304][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.22.49:305][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_0.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.05:470][679]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_26.RPGHUD_C_1.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.07:599][679]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.23.07:599][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.23.07:599][679]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.23.07:599][679]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.23.07:610][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.23.07:610][679]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.23.07:679][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.23.07:685][679]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.11.20-01.23.07:715][680]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.11.20-01.23.45:799][782]BlueprintLog: New page: Compile MagicProjectile
+[2019.11.20-01.23.46:109][782]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.11.20-01.23.47:498][857]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.23.47:562][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.23.47:563][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.23.47:563][857]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:23:47 PM)
+[2019.11.20-01.23.47:563][857]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.23.47:573][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010488s)
+[2019.11.20-01.23.47:575][857]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.23.47:575][857]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2019.11.20-01.23.47:575][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.011952s)
+[2019.11.20-01.23.47:634][857]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2019.11.20-01.23.47:641][857]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.23.47:651][857]LogInit: FAudioDevice initialized.
+[2019.11.20-01.23.47:656][857]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.23.47:658][857]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.23.47
+[2019.11.20-01.23.47:658][857]LogWorld: Bringing up level for play took: 0.000867
+[2019.11.20-01.23.47:659][857]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2019.11.20-01.23.47:670][857]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha -0.043
+[2019.11.20-01.23.47:670][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.23.50:149][ 94]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 182
+[2019.11.20-01.23.50:149][ 94]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ReceiveActorBeginOverlap
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ExecuteUbergraph_MagicProjectile
+
+[2019.11.20-01.23.50:154][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.50:160][ 94]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:539][487]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 182
+[2019.11.20-01.23.56:539][487]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ReceiveActorBeginOverlap
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ExecuteUbergraph_MagicProjectile
+
+[2019.11.20-01.23.56:544][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.23.56:550][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:550][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:550][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:550][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:550][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:550][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:550][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:550][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:550][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:550][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:551][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.56:551][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.58:763][487]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Player.Player
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_0.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.23.59:105][487]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.RPGHUD_C_1.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.24.01:690][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.24.01:690][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.24.01:690][487]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.24.01:690][487]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.24.01:700][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.24.01:700][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.24.01:765][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.24.01:771][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.11.20-01.24.01:800][488]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.11.20-01.24.16:351][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Map)
+[2019.11.20-01.24.22:315][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.26.46:228][755]BlueprintLog: New page: Compile MagicProjectile
+[2019.11.20-01.26.46:601][755]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2019.11.20-01.26.52:845][185]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.26.52:911][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.26.52:911][185]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.20-01.26.52:918][185]LogPlayLevel: [PlayLevel] Compiling MagicProjectile before play...
+[2019.11.20-01.26.53:280][185]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2019.11.20-01.26.53:280][185]LogPlayLevel: PlayLevel: Blueprint regeneration took 368 ms (1 blueprints)
+[2019.11.20-01.26.53:281][185]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:26:53 PM)
+[2019.11.20-01.26.53:281][185]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.26.53:290][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009134s)
+[2019.11.20-01.26.53:290][185]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.26.53:290][185]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2019.11.20-01.26.53:291][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.010820s)
+[2019.11.20-01.26.53:355][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.11.20-01.26.53:364][185]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.26.53:377][185]LogInit: FAudioDevice initialized.
+[2019.11.20-01.26.53:383][185]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.26.53:385][185]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.26.53
+[2019.11.20-01.26.53:385][185]LogWorld: Bringing up level for play took: 0.001101
+[2019.11.20-01.26.53:385][185]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2019.11.20-01.26.53:395][185]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha -0.322
+[2019.11.20-01.26.53:395][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.26.58:981][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.26.58:982][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.26.58:982][712]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.26.58:982][712]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.26.58:995][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.26.58:995][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.26.59:063][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.26.59:070][712]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.11.20-01.26.59:101][713]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.11.20-01.27.01:873][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.28.13:734][ 23]BlueprintLog: New page: Compile MagicProjectile
+[2019.11.20-01.28.14:132][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2019.11.20-01.28.16:069][128]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.28.16:133][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.28.16:133][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.28.16:134][128]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:28:16 PM)
+[2019.11.20-01.28.16:134][128]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.28.16:145][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011032s)
+[2019.11.20-01.28.16:146][128]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.28.16:146][128]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2019.11.20-01.28.16:146][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.012502s)
+[2019.11.20-01.28.16:214][128]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2019.11.20-01.28.16:220][128]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.28.16:231][128]LogInit: FAudioDevice initialized.
+[2019.11.20-01.28.16:240][128]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.28.16:242][128]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.28.16
+[2019.11.20-01.28.16:243][128]LogWorld: Bringing up level for play took: 0.000974
+[2019.11.20-01.28.16:243][128]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2019.11.20-01.28.16:253][128]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 0.535
+[2019.11.20-01.28.16:253][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.28.18:944][372]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 189
+[2019.11.20-01.28.18:944][372]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ReceiveActorBeginOverlap
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ExecuteUbergraph_MagicProjectile
+
+[2019.11.20-01.28.18:947][372]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_0.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_0.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_0.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_1.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_1.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_1.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.18:958][372]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.RPGHUD_C_1.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.28.38:394][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.28.38:395][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.28.38:395][ 31]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.28.38:395][ 31]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.28.38:407][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.28.38:408][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.28.38:474][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.28.38:480][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.11.20-01.28.38:509][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.11.20-01.29.05:627][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.20-01.29.05:915][248]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MapAlpha_Auto2D810D086493E1969965D2587FC2A3323.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha_Auto2.umap'
+[2019.11.20-01.29.05:920][248]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha' took 0.356
+[2019.11.20-01.29.05:921][248]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.356
+[2019.11.20-01.29.05:924][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile] ([1] browsable assets)...
+[2019.11.20-01.29.05:924][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile]
+[2019.11.20-01.29.05:947][248]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MagicProjectile_Auto20B508ACC45FCB87B0CC3A09E58074665.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/Autosaves/Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile_Auto2.uasset'
+[2019.11.20-01.29.05:948][248]LogFileHelpers: Auto-saving content packages took 0.025
+[2019.11.20-01.29.18:036][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.29.32:008][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Map)
+[2019.11.20-01.29.34:835][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-01.29.40:641][913]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-01.29.40:703][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.29.40:703][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-01.29.40:703][913]PIE: New page: PIE session: MapAlpha (Nov 20, 2019, 11:29:40 PM)
+[2019.11.20-01.29.40:703][913]LogPlayLevel: Creating play world package: /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.29.40:713][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009426s)
+[2019.11.20-01.29.40:714][913]LogAIModule: Creating AISystem for world MapAlpha
+[2019.11.20-01.29.40:714][913]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2019.11.20-01.29.40:714][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha to /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha (0.010757s)
+[2019.11.20-01.29.40:777][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.11.20-01.29.40:784][913]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-01.29.40:794][913]LogInit: FAudioDevice initialized.
+[2019.11.20-01.29.40:801][913]LogLoad: Game class is 'ThirdPersonGameMode2_C'
+[2019.11.20-01.29.40:803][913]LogWorld: Bringing World /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha.MapAlpha up for play (max tick rate 0) at 2019.11.20-12.29.40
+[2019.11.20-01.29.40:803][913]LogWorld: Bringing up level for play took: 0.001063
+[2019.11.20-01.29.40:803][913]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2019.11.20-01.29.40:815][913]PIE: Play in editor start time for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha 1.096
+[2019.11.20-01.29.40:815][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.29.42:961][128]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 189
+[2019.11.20-01.29.42:961][128]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ReceiveActorBeginOverlap
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ExecuteUbergraph_MagicProjectile
+
+[2019.11.20-01.29.42:968][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-01.29.42:975][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:975][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:975][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:975][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:975][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:975][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:975][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:975][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:976][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:976][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:976][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.42:976][128]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:350][182]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 189
+[2019.11.20-01.29.46:350][182]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ReceiveActorBeginOverlap
+	Function /Game/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.MagicProjectile_C:ExecuteUbergraph_MagicProjectile
+
+[2019.11.20-01.29.46:360][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:360][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:360][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:360][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:360][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:361][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:361][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:361][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:361][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:361][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:361][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.46:361][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_0.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.ProgressBar_347.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.ProgressBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.BufferBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.XPBar_UI.WidgetTree_0.XPBar.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.52:568][182]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.RPGHUD_C_1.WidgetTree_0.Mana.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2019.11.20-01.29.59:665][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.29.59:665][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.29.59:665][669]LogWorld: BeginTearingDown for /Game/EasyQuest/ThirdPersonBP/Maps/UEDPIE_0_MapAlpha
+[2019.11.20-01.29.59:665][669]LogWorld: UWorld::CleanupWorld for MapAlpha, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-01.29.59:676][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-01.29.59:676][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel' has LevelScriptBlueprint '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha' with GeneratedClass '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha_C' with ClassGeneratedBy '/Game/EasyQuest/ThirdPersonBP/Maps/MapAlpha.MapAlpha:PersistentLevel.MapAlpha'
+[2019.11.20-01.29.59:744][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-01.29.59:750][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.11.20-01.29.59:779][670]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.11.20-01.30.04:822][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.20-01.30.04:827][808]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.20-01.30.05:039][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.11.20-01.30.05:322][808]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MapAlphaAC9C32034DB6D99321E21F99591315A2.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Maps/MapAlpha.umap'
+[2019.11.20-01.30.05:363][808]LogFileHelpers: Saving map 'MapAlpha' took 0.382
+[2019.11.20-01.30.05:386][808]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MapAlpha_BuiltData231131A24CA4E61D3DBC8ABE4ECE2D3F.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Maps/MapAlpha_BuiltData.uasset'
+[2019.11.20-01.30.05:417][808]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/MagicProjectile824C9C06431E4C26CCF595BA29EABF56.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/ThirdPersonBP/Blueprints/Player/Eve_PlayerModel/MagicProjectile.uasset'
+[2019.11.20-01.30.05:429][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EasyQuest/SM_Map" FILE="C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/SM_Map.uasset" SILENT=true
+[2019.11.20-01.30.05:447][808]LogSavePackage: Moving 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Saved/SM_MapF3D3B73A480933198CD52492F15515F5.tmp' to 'C:/Users/s171842/Documents/GitHub/EasyQuest/RPGGame 4.23/Content/EasyQuest/SM_Map.uasset'
