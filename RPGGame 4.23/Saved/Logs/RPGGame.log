@@ -3638,3 +3638,5 @@ Script call stack:
 [2019.11.20-02.17.04:843][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.11.20-02.17.04:848][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
 [2019.11.20-02.17.04:988][640]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2019.11.20-02.18.10:324][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Map)
+[2019.11.20-02.18.14:818][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
